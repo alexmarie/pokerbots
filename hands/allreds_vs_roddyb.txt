@@ -1,0 +1,1206 @@
+*******************************************************************************
+MIT Pokerbots Final Tournament - allreds vs. roddyb
+
+MIT Pokerbots Final Tournament - Hand #1
+Seat 1: allreds (400)
+Seat 2: roddyb (400)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8d 6h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #2
+Seat 1: allreds (399)
+Seat 2: roddyb (401)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6s 7c]
+roddyb raises to 18
+allreds folds
+Uncalled bet of 16 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #3
+Seat 1: allreds (397)
+Seat 2: roddyb (403)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ad 5s]
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #4
+Seat 1: allreds (399)
+Seat 2: roddyb (401)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [8s 6h]
+roddyb calls 1
+allreds checks
+*** FLOP *** [Td 9d 2d]
+allreds checks
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #5
+Seat 1: allreds (397)
+Seat 2: roddyb (403)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [9c Ah]
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #6
+Seat 1: allreds (399)
+Seat 2: roddyb (401)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3s Tc]
+roddyb calls 1
+allreds checks
+*** FLOP *** [2d 8h Qc]
+allreds checks
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #7
+Seat 1: allreds (397)
+Seat 2: roddyb (403)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7d Qh]
+allreds calls 1
+roddyb raises to 11
+allreds calls 9
+*** FLOP *** [7s Js 6s]
+roddyb checks
+allreds bets 11
+roddyb calls 11
+*** TURN *** [7s Js 6s] [5s]
+roddyb checks
+allreds checks
+*** RIVER *** [7s Js 6s 5s] [6c]
+roddyb checks
+allreds checks
+allreds shows [7d Qh]
+roddyb shows [2h Ah]
+allreds wins the pot (44)
+
+MIT Pokerbots Final Tournament - Hand #8
+Seat 1: allreds (419)
+Seat 2: roddyb (381)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2h 5d]
+roddyb calls 1
+allreds checks
+*** FLOP *** [8h 8c Tc]
+allreds checks
+roddyb checks
+*** TURN *** [8h 8c Tc] [5h]
+allreds bets 2
+roddyb calls 2
+*** RIVER *** [8h 8c Tc 5h] [3d]
+allreds checks
+roddyb checks
+allreds shows [2h 5d]
+roddyb shows [Kd 2c]
+allreds wins the pot (8)
+
+MIT Pokerbots Final Tournament - Hand #9
+Seat 1: allreds (423)
+Seat 2: roddyb (377)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5d 3s]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #10
+Seat 1: allreds (422)
+Seat 2: roddyb (378)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qh 6c]
+roddyb calls 1
+allreds checks
+*** FLOP *** [6s Th 4c]
+allreds bets 2
+roddyb calls 2
+*** TURN *** [6s Th 4c] [8s]
+allreds bets 4
+roddyb raises to 9
+allreds calls 5
+*** RIVER *** [6s Th 4c 8s] [Kc]
+allreds bets 13
+roddyb calls 13
+allreds shows [Qh 6c]
+roddyb shows [8d 2s]
+roddyb wins the pot (52)
+
+MIT Pokerbots Final Tournament - Hand #11
+Seat 1: allreds (396)
+Seat 2: roddyb (404)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [2h Kh]
+allreds raises to 6
+roddyb calls 4
+*** FLOP *** [5s Td 9h]
+roddyb bets 18
+allreds calls 18
+*** TURN *** [5s Td 9h] [Tc]
+roddyb bets 39
+allreds folds
+Uncalled bet of 39 returned to roddyb
+roddyb wins the pot (48)
+
+MIT Pokerbots Final Tournament - Hand #12
+Seat 1: allreds (372)
+Seat 2: roddyb (428)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [4d 6s]
+roddyb calls 1
+allreds checks
+*** FLOP *** [2d 5d 8c]
+allreds checks
+roddyb checks
+*** TURN *** [2d 5d 8c] [Th]
+allreds checks
+roddyb checks
+*** RIVER *** [2d 5d 8c Th] [Ah]
+allreds checks
+roddyb bets 18
+allreds folds
+Uncalled bet of 18 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #13
+Seat 1: allreds (370)
+Seat 2: roddyb (430)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jh Kc]
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #14
+Seat 1: allreds (372)
+Seat 2: roddyb (428)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [4h Kc]
+roddyb calls 1
+allreds checks
+*** FLOP *** [Qc Js Td]
+allreds checks
+roddyb checks
+*** TURN *** [Qc Js Td] [2s]
+allreds checks
+roddyb checks
+*** RIVER *** [Qc Js Td 2s] [9s]
+allreds bets 2
+roddyb raises to 7
+allreds raises to 25
+roddyb calls 18
+allreds shows [4h Kc]
+roddyb shows [7d Kh]
+roddyb ties for the pot (27)
+allreds ties for the pot (27)
+
+MIT Pokerbots Final Tournament - Hand #15
+Seat 1: allreds (372)
+Seat 2: roddyb (428)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [2c 4h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #16
+Seat 1: allreds (371)
+Seat 2: roddyb (429)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3h 7d]
+roddyb calls 1
+allreds checks
+*** FLOP *** [9d Js Ah]
+allreds checks
+roddyb checks
+*** TURN *** [9d Js Ah] [Ac]
+allreds checks
+roddyb checks
+*** RIVER *** [9d Js Ah Ac] [5s]
+allreds checks
+roddyb checks
+allreds shows [3h 7d]
+roddyb shows [8s 6d]
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #17
+Seat 1: allreds (369)
+Seat 2: roddyb (431)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Kc 5d]
+allreds calls 1
+roddyb checks
+*** FLOP *** [3s Ah 6d]
+roddyb checks
+allreds checks
+*** TURN *** [3s Ah 6d] [8s]
+roddyb bets 18
+allreds calls 18
+*** RIVER *** [3s Ah 6d 8s] [Th]
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (40)
+
+MIT Pokerbots Final Tournament - Hand #18
+Seat 1: allreds (349)
+Seat 2: roddyb (451)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3d Kc]
+roddyb raises to 20
+allreds raises to 60
+roddyb calls 40
+*** FLOP *** [6c Tc Qs]
+allreds checks
+roddyb checks
+*** TURN *** [6c Tc Qs] [3s]
+allreds checks
+roddyb checks
+*** RIVER *** [6c Tc Qs 3s] [Qc]
+allreds bets 60
+roddyb folds
+Uncalled bet of 60 returned to allreds
+allreds wins the pot (120)
+
+MIT Pokerbots Final Tournament - Hand #19
+Seat 1: allreds (409)
+Seat 2: roddyb (391)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7h Qs]
+allreds raises to 6
+roddyb calls 4
+*** FLOP *** [Qh 5h 8d]
+roddyb bets 10
+allreds raises to 42
+roddyb folds
+Uncalled bet of 32 returned to allreds
+allreds wins the pot (32)
+
+MIT Pokerbots Final Tournament - Hand #20
+Seat 1: allreds (425)
+Seat 2: roddyb (375)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2d Td]
+roddyb calls 1
+allreds checks
+*** FLOP *** [4h 4d 7d]
+allreds checks
+roddyb bets 10
+allreds calls 10
+*** TURN *** [4h 4d 7d] [9h]
+allreds checks
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (24)
+
+MIT Pokerbots Final Tournament - Hand #21
+Seat 1: allreds (413)
+Seat 2: roddyb (387)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [2s 7d]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #22
+Seat 1: allreds (412)
+Seat 2: roddyb (388)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Js As]
+roddyb calls 1
+allreds raises to 412, and is all in
+roddyb folds
+Uncalled bet of 410 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #23
+Seat 1: allreds (414)
+Seat 2: roddyb (386)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7s 6s]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #24
+Seat 1: allreds (413)
+Seat 2: roddyb (387)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qd 5d]
+roddyb calls 1
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #25
+Seat 1: allreds (415)
+Seat 2: roddyb (385)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8s Qd]
+allreds calls 1
+roddyb checks
+*** FLOP *** [9c Jh Ac]
+roddyb checks
+allreds checks
+*** TURN *** [9c Jh Ac] [8c]
+roddyb bets 10
+allreds calls 10
+*** RIVER *** [9c Jh Ac 8c] [7h]
+roddyb bets 10
+allreds calls 10
+allreds shows [8s Qd]
+roddyb shows [2c 4c]
+roddyb wins the pot (44)
+
+MIT Pokerbots Final Tournament - Hand #26
+Seat 1: allreds (393)
+Seat 2: roddyb (407)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2c 3h]
+roddyb calls 1
+allreds checks
+*** FLOP *** [4s 2h Ac]
+allreds bets 4
+roddyb calls 4
+*** TURN *** [4s 2h Ac] [6c]
+allreds checks
+roddyb checks
+*** RIVER *** [4s 2h Ac 6c] [8d]
+allreds checks
+roddyb checks
+allreds shows [2c 3h]
+roddyb shows [Tc 7h]
+allreds wins the pot (12)
+
+MIT Pokerbots Final Tournament - Hand #27
+Seat 1: allreds (399)
+Seat 2: roddyb (401)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5c Qh]
+allreds calls 1
+roddyb checks
+*** FLOP *** [3s 5h 9c]
+roddyb checks
+allreds bets 2
+roddyb calls 2
+*** TURN *** [3s 5h 9c] [Th]
+roddyb checks
+allreds bets 4
+roddyb calls 4
+*** RIVER *** [3s 5h 9c Th] [Ks]
+roddyb checks
+allreds checks
+allreds shows [5c Qh]
+roddyb shows [6d 2s]
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #28
+Seat 1: allreds (407)
+Seat 2: roddyb (393)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qd 2s]
+roddyb calls 1
+allreds checks
+*** FLOP *** [2h 4c Ac]
+allreds bets 2
+roddyb calls 2
+*** TURN *** [2h 4c Ac] [9c]
+allreds checks
+roddyb bets 10
+allreds calls 10
+*** RIVER *** [2h 4c Ac 9c] [6s]
+allreds checks
+roddyb checks
+allreds shows [Qd 2s]
+roddyb shows [4d 8h]
+roddyb wins the pot (28)
+
+MIT Pokerbots Final Tournament - Hand #29
+Seat 1: allreds (393)
+Seat 2: roddyb (407)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jc 5s]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #30
+Seat 1: allreds (392)
+Seat 2: roddyb (408)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6d 3c]
+roddyb calls 1
+allreds checks
+*** FLOP *** [Js Jd Td]
+allreds bets 2
+roddyb calls 2
+*** TURN *** [Js Jd Td] [6s]
+allreds bets 4
+roddyb calls 4
+*** RIVER *** [Js Jd Td 6s] [Kh]
+allreds checks
+roddyb checks
+allreds shows [6d 3c]
+roddyb shows [8d 4s]
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #31
+Seat 1: allreds (400)
+Seat 2: roddyb (400)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Qc Qd]
+allreds raises to 6
+roddyb folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #32
+Seat 1: allreds (402)
+Seat 2: roddyb (398)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Kc 7c]
+roddyb calls 1
+allreds raises to 6
+roddyb raises to 18
+allreds raises to 54
+roddyb folds
+Uncalled bet of 36 returned to allreds
+allreds wins the pot (36)
+
+MIT Pokerbots Final Tournament - Hand #33
+Seat 1: allreds (420)
+Seat 2: roddyb (380)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Js Qd]
+allreds raises to 6
+roddyb calls 4
+*** FLOP *** [6c Th Jc]
+roddyb checks
+allreds bets 414, and is all in
+roddyb folds
+Uncalled bet of 414 returned to allreds
+allreds wins the pot (12)
+
+MIT Pokerbots Final Tournament - Hand #34
+Seat 1: allreds (426)
+Seat 2: roddyb (374)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5c 5d]
+roddyb calls 1
+allreds raises to 6
+roddyb calls 4
+*** FLOP *** [Tc 3s 9h]
+allreds bets 12
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (12)
+
+MIT Pokerbots Final Tournament - Hand #35
+Seat 1: allreds (432)
+Seat 2: roddyb (368)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3s 5h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #36
+Seat 1: allreds (431)
+Seat 2: roddyb (369)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qc 2c]
+roddyb calls 1
+allreds checks
+*** FLOP *** [Td 2d 7s]
+allreds checks
+roddyb checks
+*** TURN *** [Td 2d 7s] [8s]
+allreds checks
+roddyb checks
+*** RIVER *** [Td 2d 7s 8s] [Kh]
+allreds bets 4
+roddyb folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #37
+Seat 1: allreds (433)
+Seat 2: roddyb (367)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ad 9s]
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #38
+Seat 1: allreds (435)
+Seat 2: roddyb (365)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Jd 8s]
+roddyb calls 1
+allreds raises to 6
+roddyb folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #39
+Seat 1: allreds (437)
+Seat 2: roddyb (363)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Tc As]
+allreds calls 1
+roddyb checks
+*** FLOP *** [Jc 5h 7d]
+roddyb checks
+allreds bets 4
+roddyb calls 4
+*** TURN *** [Jc 5h 7d] [9d]
+roddyb checks
+allreds checks
+*** RIVER *** [Jc 5h 7d 9d] [Jd]
+roddyb checks
+allreds checks
+allreds shows [Tc As]
+roddyb shows [5d Kh]
+roddyb wins the pot (12)
+
+MIT Pokerbots Final Tournament - Hand #40
+Seat 1: allreds (431)
+Seat 2: roddyb (369)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6d 6s]
+roddyb calls 1
+allreds raises to 14
+roddyb raises to 33
+allreds raises to 231
+roddyb calls 198
+*** FLOP *** [Td 3h 4c]
+allreds checks
+roddyb bets 138, and is all in
+allreds folds
+Uncalled bet of 138 returned to roddyb
+roddyb wins the pot (462)
+
+MIT Pokerbots Final Tournament - Hand #41
+Seat 1: allreds (200)
+Seat 2: roddyb (600)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ts Kd]
+allreds calls 1
+roddyb raises to 12
+allreds raises to 84
+roddyb folds
+Uncalled bet of 72 returned to allreds
+allreds wins the pot (24)
+
+MIT Pokerbots Final Tournament - Hand #42
+Seat 1: allreds (212)
+Seat 2: roddyb (588)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [7c 4c]
+roddyb calls 1
+allreds checks
+*** FLOP *** [2h Jc 7d]
+allreds bets 2
+roddyb calls 2
+*** TURN *** [2h Jc 7d] [3s]
+allreds bets 4
+roddyb calls 4
+*** RIVER *** [2h Jc 7d 3s] [8h]
+allreds bets 8
+roddyb calls 8
+allreds shows [7c 4c]
+roddyb shows [8d Th]
+roddyb wins the pot (32)
+
+MIT Pokerbots Final Tournament - Hand #43
+Seat 1: allreds (196)
+Seat 2: roddyb (604)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7h 7d]
+allreds raises to 196, and is all in
+roddyb folds
+Uncalled bet of 194 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #44
+Seat 1: allreds (198)
+Seat 2: roddyb (602)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qh 6h]
+roddyb calls 1
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #45
+Seat 1: allreds (200)
+Seat 2: roddyb (600)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8d 6c]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #46
+Seat 1: allreds (199)
+Seat 2: roddyb (601)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Kh Jd]
+roddyb calls 1
+allreds checks
+*** FLOP *** [9s 9h Td]
+allreds checks
+roddyb checks
+*** TURN *** [9s 9h Td] [As]
+allreds checks
+roddyb checks
+*** RIVER *** [9s 9h Td As] [Ad]
+allreds bets 4
+roddyb folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #47
+Seat 1: allreds (201)
+Seat 2: roddyb (599)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8h 4h]
+allreds calls 1
+roddyb checks
+*** FLOP *** [4c 5c 6c]
+roddyb checks
+allreds bets 2
+roddyb calls 2
+*** TURN *** [4c 5c 6c] [8c]
+roddyb checks
+allreds bets 4
+roddyb raises to 21
+allreds calls 17
+*** RIVER *** [4c 5c 6c 8c] [5s]
+roddyb checks
+allreds checks
+allreds shows [8h 4h]
+roddyb shows [2h Kc]
+roddyb wins the pot (50)
+
+MIT Pokerbots Final Tournament - Hand #48
+Seat 1: allreds (176)
+Seat 2: roddyb (624)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Td 7d]
+roddyb calls 1
+allreds checks
+*** FLOP *** [5d 9c Js]
+allreds checks
+roddyb checks
+*** TURN *** [5d 9c Js] [4h]
+allreds checks
+roddyb checks
+*** RIVER *** [5d 9c Js 4h] [Tc]
+allreds bets 2
+roddyb folds
+Uncalled bet of 2 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #49
+Seat 1: allreds (178)
+Seat 2: roddyb (622)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5h Ah]
+allreds raises to 14
+roddyb folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #50
+Seat 1: allreds (180)
+Seat 2: roddyb (620)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5d Kd]
+roddyb calls 1
+allreds raises to 14
+roddyb calls 12
+*** FLOP *** [Kh Ks 2c]
+allreds bets 166, and is all in
+roddyb folds
+Uncalled bet of 166 returned to allreds
+allreds wins the pot (28)
+
+MIT Pokerbots Final Tournament - Hand #51
+Seat 1: allreds (194)
+Seat 2: roddyb (606)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jh 4d]
+allreds calls 1
+roddyb checks
+*** FLOP *** [9h 6s 7h]
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #52
+Seat 1: allreds (192)
+Seat 2: roddyb (608)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [7s 8h]
+roddyb calls 1
+allreds checks
+*** FLOP *** [Kh 6c 5s]
+allreds checks
+roddyb checks
+*** TURN *** [Kh 6c 5s] [9d]
+allreds checks
+roddyb checks
+*** RIVER *** [Kh 6c 5s 9d] [8c]
+allreds bets 2
+roddyb calls 2
+allreds shows [7s 8h]
+roddyb shows [Tc Qh]
+allreds wins the pot (8)
+
+MIT Pokerbots Final Tournament - Hand #53
+Seat 1: allreds (196)
+Seat 2: roddyb (604)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3s As]
+allreds raises to 196, and is all in
+roddyb folds
+Uncalled bet of 194 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #54
+Seat 1: allreds (198)
+Seat 2: roddyb (602)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [7d Jc]
+roddyb calls 1
+allreds checks
+*** FLOP *** [2d 3d 9h]
+allreds checks
+roddyb checks
+*** TURN *** [2d 3d 9h] [5s]
+allreds checks
+roddyb checks
+*** RIVER *** [2d 3d 9h 5s] [4h]
+allreds checks
+roddyb checks
+allreds shows [7d Jc]
+roddyb shows [Qd Js]
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #55
+Seat 1: allreds (196)
+Seat 2: roddyb (604)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ad 6c]
+allreds raises to 196, and is all in
+roddyb folds
+Uncalled bet of 194 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #56
+Seat 1: allreds (198)
+Seat 2: roddyb (602)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qs 3s]
+roddyb calls 1
+allreds checks
+*** FLOP *** [As 4h Tc]
+allreds checks
+roddyb checks
+*** TURN *** [As 4h Tc] [Td]
+allreds checks
+roddyb checks
+*** RIVER *** [As 4h Tc Td] [5h]
+allreds checks
+roddyb checks
+allreds shows [Qs 3s]
+roddyb shows [8d Kd]
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #57
+Seat 1: allreds (196)
+Seat 2: roddyb (604)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5h 7h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #58
+Seat 1: allreds (195)
+Seat 2: roddyb (605)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ks Qc]
+roddyb calls 1
+allreds raises to 195, and is all in
+roddyb folds
+Uncalled bet of 193 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #59
+Seat 1: allreds (197)
+Seat 2: roddyb (603)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [2h 5d]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #60
+Seat 1: allreds (196)
+Seat 2: roddyb (604)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Jc Qc]
+roddyb calls 1
+allreds raises to 196, and is all in
+roddyb folds
+Uncalled bet of 194 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #61
+Seat 1: allreds (198)
+Seat 2: roddyb (602)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ks Js]
+allreds raises to 198, and is all in
+roddyb folds
+Uncalled bet of 196 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #62
+Seat 1: allreds (200)
+Seat 2: roddyb (600)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [9c 9d]
+roddyb calls 1
+allreds raises to 200, and is all in
+roddyb folds
+Uncalled bet of 198 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #63
+Seat 1: allreds (202)
+Seat 2: roddyb (598)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7c 4c]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #64
+Seat 1: allreds (201)
+Seat 2: roddyb (599)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qs 9h]
+roddyb calls 1
+allreds checks
+*** FLOP *** [As Qc Ks]
+allreds checks
+roddyb checks
+*** TURN *** [As Qc Ks] [2h]
+allreds checks
+roddyb checks
+*** RIVER *** [As Qc Ks 2h] [3d]
+allreds checks
+roddyb checks
+allreds shows [Qs 9h]
+roddyb shows [4c 7d]
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #65
+Seat 1: allreds (203)
+Seat 2: roddyb (597)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8c 2h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #66
+Seat 1: allreds (202)
+Seat 2: roddyb (598)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [8d Ts]
+roddyb calls 1
+allreds checks
+*** FLOP *** [4c Td Kc]
+allreds checks
+roddyb checks
+*** TURN *** [4c Td Kc] [Qs]
+allreds checks
+roddyb checks
+*** RIVER *** [4c Td Kc Qs] [9s]
+allreds checks
+roddyb bets 18
+allreds folds
+Uncalled bet of 18 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #67
+Seat 1: allreds (200)
+Seat 2: roddyb (600)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6d Js]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #68
+Seat 1: allreds (199)
+Seat 2: roddyb (601)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3h 7h]
+roddyb calls 1
+allreds checks
+*** FLOP *** [8c 3s As]
+allreds checks
+roddyb checks
+*** TURN *** [8c 3s As] [9h]
+allreds checks
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #69
+Seat 1: allreds (197)
+Seat 2: roddyb (603)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jh 8d]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #70
+Seat 1: allreds (196)
+Seat 2: roddyb (604)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5d 5c]
+roddyb calls 1
+allreds raises to 196, and is all in
+roddyb folds
+Uncalled bet of 194 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #71
+Seat 1: allreds (198)
+Seat 2: roddyb (602)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [9s 8h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #72
+Seat 1: allreds (197)
+Seat 2: roddyb (603)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Kh 7s]
+roddyb calls 1
+allreds checks
+*** FLOP *** [3s 3d Qd]
+allreds checks
+roddyb checks
+*** TURN *** [3s 3d Qd] [Qc]
+allreds checks
+roddyb bets 10
+allreds folds
+Uncalled bet of 10 returned to roddyb
+roddyb wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #73
+Seat 1: allreds (195)
+Seat 2: roddyb (605)
+allreds posts the small blind of 1
+roddyb posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [9s 8h]
+allreds folds
+Uncalled bet of 1 returned to roddyb
+roddyb wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #74
+Seat 1: allreds (194)
+Seat 2: roddyb (606)
+roddyb posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Kh Td]
+roddyb calls 1
+allreds raises to 194, and is all in
+roddyb calls 192
+*** FLOP *** [Th 3s As]
+*** TURN *** [Th 3s As] [Jc]
+*** RIVER *** [Th 3s As Jc] [8d]
+allreds shows [Kh Td]
+roddyb shows [Ah Kd]
+roddyb wins the pot (388)
+
+roddyb wins the match in 74 hands!
+*******************************************************************************

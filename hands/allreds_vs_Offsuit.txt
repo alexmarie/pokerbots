@@ -1,0 +1,1604 @@
+*******************************************************************************
+MIT Pokerbots Final Tournament - allreds vs. Offsuit
+
+MIT Pokerbots Final Tournament - Hand #1
+Seat 1: allreds (400)
+Seat 2: Offsuit (400)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3c Ad]
+allreds raises to 6
+Offsuit folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #2
+Seat 1: allreds (402)
+Seat 2: Offsuit (398)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [4s 7s]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [7d Jh 2h]
+allreds checks
+Offsuit checks
+*** TURN *** [7d Jh 2h] [Qh]
+allreds bets 2
+Offsuit raises to 12
+allreds calls 10
+*** RIVER *** [7d Jh 2h Qh] [5c]
+allreds checks
+Offsuit bets 56
+allreds raises to 126
+Offsuit raises to 384, and is all in
+allreds folds
+Uncalled bet of 258 returned to Offsuit
+Offsuit wins the pot (280)
+
+MIT Pokerbots Final Tournament - Hand #3
+Seat 1: allreds (262)
+Seat 2: Offsuit (538)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ks Ac]
+allreds calls 1
+Offsuit raises to 8
+allreds raises to 24
+Offsuit calls 16
+*** FLOP *** [9d 3c 2c]
+Offsuit checks
+allreds checks
+*** TURN *** [9d 3c 2c] [2h]
+Offsuit checks
+allreds checks
+*** RIVER *** [9d 3c 2c 2h] [2d]
+Offsuit checks
+allreds checks
+allreds shows [Ks Ac]
+Offsuit shows [Kd Jh]
+allreds wins the pot (48)
+
+MIT Pokerbots Final Tournament - Hand #4
+Seat 1: allreds (286)
+Seat 2: Offsuit (514)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ac Jd]
+Offsuit raises to 8
+allreds calls 6
+*** FLOP *** [Kh 2s Qc]
+allreds checks
+Offsuit bets 8
+allreds calls 8
+*** TURN *** [Kh 2s Qc] [7c]
+allreds checks
+Offsuit checks
+*** RIVER *** [Kh 2s Qc 7c] [Td]
+allreds checks
+Offsuit checks
+allreds shows [Ac Jd]
+Offsuit shows [8c 5s]
+allreds wins the pot (32)
+
+MIT Pokerbots Final Tournament - Hand #5
+Seat 1: allreds (302)
+Seat 2: Offsuit (498)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5s 3d]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #6
+Seat 1: allreds (301)
+Seat 2: Offsuit (499)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2d 9h]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #7
+Seat 1: allreds (299)
+Seat 2: Offsuit (501)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [2d 2s]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [Kc 4s 8d]
+Offsuit checks
+allreds checks
+*** TURN *** [Kc 4s 8d] [Ts]
+Offsuit checks
+allreds checks
+*** RIVER *** [Kc 4s 8d Ts] [4c]
+Offsuit checks
+allreds checks
+allreds shows [2d 2s]
+Offsuit shows [4d 2c]
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #8
+Seat 1: allreds (297)
+Seat 2: Offsuit (503)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qd 3d]
+Offsuit raises to 8
+allreds raises to 24
+Offsuit calls 16
+*** FLOP *** [8s 9h Qh]
+allreds bets 48
+Offsuit calls 48
+*** TURN *** [8s 9h Qh] [Qs]
+allreds bets 144
+Offsuit calls 144
+*** RIVER *** [8s 9h Qh Qs] [2d]
+allreds bets 81, and is all in
+Offsuit calls 81
+allreds shows [Qd 3d]
+Offsuit shows [9d Ac]
+allreds wins the pot (594)
+
+MIT Pokerbots Final Tournament - Hand #9
+Seat 1: allreds (594)
+Seat 2: Offsuit (206)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7s 9c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #10
+Seat 1: allreds (593)
+Seat 2: Offsuit (207)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3d 6c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [5s 7d Kd]
+allreds checks
+Offsuit checks
+*** TURN *** [5s 7d Kd] [5c]
+allreds checks
+Offsuit checks
+*** RIVER *** [5s 7d Kd 5c] [As]
+allreds checks
+Offsuit checks
+allreds shows [3d 6c]
+Offsuit shows [Qh 6h]
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #11
+Seat 1: allreds (591)
+Seat 2: Offsuit (209)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Qd Ks]
+allreds raises to 6
+Offsuit folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #12
+Seat 1: allreds (593)
+Seat 2: Offsuit (207)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [7d 3c]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #13
+Seat 1: allreds (591)
+Seat 2: Offsuit (209)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Ah Kd]
+allreds raises to 14
+Offsuit folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #14
+Seat 1: allreds (593)
+Seat 2: Offsuit (207)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6d Jc]
+Offsuit raises to 8
+allreds calls 6
+*** FLOP *** [5d 5c 3c]
+allreds bets 8
+Offsuit folds
+Uncalled bet of 8 returned to allreds
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #15
+Seat 1: allreds (601)
+Seat 2: Offsuit (199)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7c Qs]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [Jc Th 7d]
+Offsuit checks
+allreds bets 4
+Offsuit calls 4
+*** TURN *** [Jc Th 7d] [5d]
+Offsuit checks
+allreds bets 6
+Offsuit folds
+Uncalled bet of 6 returned to allreds
+allreds wins the pot (12)
+
+MIT Pokerbots Final Tournament - Hand #16
+Seat 1: allreds (607)
+Seat 2: Offsuit (193)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5d 7d]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #17
+Seat 1: allreds (605)
+Seat 2: Offsuit (195)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [4c 8s]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #18
+Seat 1: allreds (604)
+Seat 2: Offsuit (196)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [4s 6c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [9c 8h Qd]
+allreds checks
+Offsuit checks
+*** TURN *** [9c 8h Qd] [2h]
+allreds checks
+Offsuit checks
+*** RIVER *** [9c 8h Qd 2h] [Jh]
+allreds checks
+Offsuit checks
+allreds shows [4s 6c]
+Offsuit shows [Jc 4c]
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #19
+Seat 1: allreds (602)
+Seat 2: Offsuit (198)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3h 5h]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #20
+Seat 1: allreds (601)
+Seat 2: Offsuit (199)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ad Qs]
+Offsuit calls 1
+allreds raises to 14
+Offsuit calls 12
+*** FLOP *** [4h 3s Qc]
+allreds bets 28
+Offsuit folds
+Uncalled bet of 28 returned to allreds
+allreds wins the pot (28)
+
+MIT Pokerbots Final Tournament - Hand #21
+Seat 1: allreds (615)
+Seat 2: Offsuit (185)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Qs 4c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #22
+Seat 1: allreds (614)
+Seat 2: Offsuit (186)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [9h 8c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Jc 6s 2c]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #23
+Seat 1: allreds (612)
+Seat 2: Offsuit (188)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Td 8d]
+allreds raises to 6
+Offsuit folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #24
+Seat 1: allreds (614)
+Seat 2: Offsuit (186)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [4c Ac]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Ah 8s Th]
+allreds bets 4
+Offsuit raises to 16
+allreds raises to 52
+Offsuit calls 36
+*** TURN *** [Ah 8s Th] [8d]
+allreds bets 108
+Offsuit folds
+Uncalled bet of 108 returned to allreds
+allreds wins the pot (108)
+
+MIT Pokerbots Final Tournament - Hand #25
+Seat 1: allreds (668)
+Seat 2: Offsuit (132)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jc 7h]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #26
+Seat 1: allreds (667)
+Seat 2: Offsuit (133)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [9d 6s]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #27
+Seat 1: allreds (665)
+Seat 2: Offsuit (135)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [4c Tc]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [3d 8d 7d]
+Offsuit checks
+allreds checks
+*** TURN *** [3d 8d 7d] [3h]
+Offsuit checks
+allreds checks
+*** RIVER *** [3d 8d 7d 3h] [Qs]
+Offsuit checks
+allreds checks
+allreds shows [4c Tc]
+Offsuit shows [7s Jd]
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #28
+Seat 1: allreds (663)
+Seat 2: Offsuit (137)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6c 7d]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #29
+Seat 1: allreds (661)
+Seat 2: Offsuit (139)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Qh 9d]
+allreds calls 1
+Offsuit raises to 8
+allreds raises to 24
+Offsuit folds
+Uncalled bet of 16 returned to allreds
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #30
+Seat 1: allreds (669)
+Seat 2: Offsuit (131)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [8d 3c]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #31
+Seat 1: allreds (667)
+Seat 2: Offsuit (133)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jh Kd]
+allreds raises to 14
+Offsuit calls 12
+*** FLOP *** [4d Kc Qh]
+Offsuit checks
+allreds bets 14
+Offsuit calls 14
+*** TURN *** [4d Kc Qh] [Kh]
+Offsuit checks
+allreds bets 56
+Offsuit calls 56
+*** RIVER *** [4d Kc Qh Kh] [Ad]
+Offsuit checks
+allreds checks
+allreds shows [Jh Kd]
+Offsuit shows [Qc Th]
+allreds wins the pot (168)
+
+MIT Pokerbots Final Tournament - Hand #32
+Seat 1: allreds (751)
+Seat 2: Offsuit (49)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Td Qd]
+Offsuit calls 1
+allreds raises to 14
+Offsuit calls 12
+*** FLOP *** [4s Kc Jd]
+allreds bets 14
+Offsuit folds
+Uncalled bet of 14 returned to allreds
+allreds wins the pot (28)
+
+MIT Pokerbots Final Tournament - Hand #33
+Seat 1: allreds (765)
+Seat 2: Offsuit (35)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8s Qh]
+allreds raises to 6
+Offsuit raises to 16
+allreds raises to 48
+Offsuit calls 19, and is all in
+Uncalled bet of 13 returned to allreds
+*** FLOP *** [4s Ts 2s]
+*** TURN *** [4s Ts 2s] [2h]
+*** RIVER *** [4s Ts 2s 2h] [6s]
+allreds shows [8s Qh]
+Offsuit shows [As Js]
+Offsuit wins the pot (70)
+
+MIT Pokerbots Final Tournament - Hand #34
+Seat 1: allreds (730)
+Seat 2: Offsuit (70)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ah 6c]
+Offsuit raises to 8
+allreds raises to 24
+Offsuit calls 16
+*** FLOP *** [Qc 9s Tc]
+allreds bets 48
+Offsuit calls 46, and is all in
+Uncalled bet of 2 returned to allreds
+*** TURN *** [Qc 9s Tc] [8d]
+*** RIVER *** [Qc 9s Tc 8d] [Jd]
+allreds shows [Ah 6c]
+Offsuit shows [7c Qh]
+Offsuit ties for the pot (70)
+allreds ties for the pot (70)
+
+MIT Pokerbots Final Tournament - Hand #35
+Seat 1: allreds (730)
+Seat 2: Offsuit (70)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [2d Js]
+allreds calls 1
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #36
+Seat 1: allreds (728)
+Seat 2: Offsuit (72)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5d Kd]
+Offsuit calls 1
+allreds raises to 6
+Offsuit calls 4
+*** FLOP *** [6s Ah 4c]
+allreds bets 12
+Offsuit calls 12
+*** TURN *** [6s Ah 4c] [4h]
+allreds bets 18
+Offsuit calls 18
+*** RIVER *** [6s Ah 4c 4h] [7h]
+allreds checks
+Offsuit bets 36, and is all in
+allreds calls 36
+allreds shows [5d Kd]
+Offsuit shows [4d Qs]
+Offsuit wins the pot (144)
+
+MIT Pokerbots Final Tournament - Hand #37
+Seat 1: allreds (656)
+Seat 2: Offsuit (144)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5c Ts]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [3c 2c 4h]
+Offsuit checks
+allreds checks
+*** TURN *** [3c 2c 4h] [7s]
+Offsuit checks
+allreds checks
+*** RIVER *** [3c 2c 4h 7s] [Jd]
+Offsuit checks
+allreds checks
+allreds shows [5c Ts]
+Offsuit shows [Kh 4c]
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #38
+Seat 1: allreds (654)
+Seat 2: Offsuit (146)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5s Ac]
+Offsuit calls 1
+allreds raises to 6
+Offsuit calls 4
+*** FLOP *** [8c 9c Js]
+allreds bets 12
+Offsuit folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (12)
+
+MIT Pokerbots Final Tournament - Hand #39
+Seat 1: allreds (660)
+Seat 2: Offsuit (140)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [4d 7d]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #40
+Seat 1: allreds (659)
+Seat 2: Offsuit (141)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Jc Th]
+Offsuit raises to 8
+allreds raises to 56
+Offsuit raises to 141, and is all in
+allreds folds
+Uncalled bet of 85 returned to Offsuit
+Offsuit wins the pot (112)
+
+MIT Pokerbots Final Tournament - Hand #41
+Seat 1: allreds (603)
+Seat 2: Offsuit (197)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jh 7s]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #42
+Seat 1: allreds (602)
+Seat 2: Offsuit (198)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Kd Qd]
+Offsuit calls 1
+allreds raises to 6
+Offsuit folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #43
+Seat 1: allreds (604)
+Seat 2: Offsuit (196)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Th Qh]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [9c Jh 6s]
+Offsuit checks
+allreds checks
+*** TURN *** [9c Jh 6s] [8c]
+Offsuit checks
+allreds bets 2
+Offsuit calls 2
+*** RIVER *** [9c Jh 6s 8c] [Qd]
+Offsuit checks
+allreds bets 4
+Offsuit calls 4
+allreds shows [Th Qh]
+Offsuit shows [5d Kh]
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #44
+Seat 1: allreds (612)
+Seat 2: Offsuit (188)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6d 5c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [8c Jd Kd]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #45
+Seat 1: allreds (610)
+Seat 2: Offsuit (190)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6d 2s]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #46
+Seat 1: allreds (609)
+Seat 2: Offsuit (191)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [8d Js]
+Offsuit calls 1
+allreds raises to 14
+Offsuit calls 12
+*** FLOP *** [Qs 8h 4s]
+allreds checks
+Offsuit bets 28
+allreds raises to 70
+Offsuit folds
+Uncalled bet of 42 returned to allreds
+allreds wins the pot (84)
+
+MIT Pokerbots Final Tournament - Hand #47
+Seat 1: allreds (651)
+Seat 2: Offsuit (149)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5h Tc]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #48
+Seat 1: allreds (650)
+Seat 2: Offsuit (150)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ad 4h]
+Offsuit raises to 8
+allreds raises to 24
+Offsuit calls 16
+*** FLOP *** [Kc 8h 5c]
+allreds checks
+Offsuit checks
+*** TURN *** [Kc 8h 5c] [5d]
+allreds checks
+Offsuit checks
+*** RIVER *** [Kc 8h 5c 5d] [7d]
+allreds bets 24
+Offsuit calls 24
+allreds shows [Ad 4h]
+Offsuit shows [8s Qs]
+Offsuit wins the pot (96)
+
+MIT Pokerbots Final Tournament - Hand #49
+Seat 1: allreds (602)
+Seat 2: Offsuit (198)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6c 9s]
+allreds calls 1
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #50
+Seat 1: allreds (600)
+Seat 2: Offsuit (200)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5c 7d]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [8h 8s 5h]
+allreds bets 2
+Offsuit calls 2
+*** TURN *** [8h 8s 5h] [4d]
+allreds bets 4
+Offsuit calls 4
+*** RIVER *** [8h 8s 5h 4d] [Qc]
+allreds bets 8
+Offsuit folds
+Uncalled bet of 8 returned to allreds
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #51
+Seat 1: allreds (608)
+Seat 2: Offsuit (192)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6s 9d]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #52
+Seat 1: allreds (607)
+Seat 2: Offsuit (193)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5s 9d]
+Offsuit raises to 8
+allreds calls 6
+*** FLOP *** [3h 2h Ac]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #53
+Seat 1: allreds (599)
+Seat 2: Offsuit (201)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Tc 7c]
+allreds calls 1
+Offsuit raises to 8
+allreds calls 6
+*** FLOP *** [3c 9c 3h]
+Offsuit checks
+allreds checks
+*** TURN *** [3c 9c 3h] [Ts]
+Offsuit bets 16
+allreds raises to 64
+Offsuit calls 48
+*** RIVER *** [3c 9c 3h Ts] [8s]
+Offsuit checks
+allreds bets 144
+Offsuit folds
+Uncalled bet of 144 returned to allreds
+allreds wins the pot (144)
+
+MIT Pokerbots Final Tournament - Hand #54
+Seat 1: allreds (671)
+Seat 2: Offsuit (129)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Th 2h]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Qh 7h 2d]
+allreds bets 2
+Offsuit calls 2
+*** TURN *** [Qh 7h 2d] [5s]
+allreds bets 8
+Offsuit folds
+Uncalled bet of 8 returned to allreds
+allreds wins the pot (8)
+
+MIT Pokerbots Final Tournament - Hand #55
+Seat 1: allreds (675)
+Seat 2: Offsuit (125)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5d Td]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [5s 3d As]
+Offsuit checks
+allreds bets 2
+Offsuit calls 2
+*** TURN *** [5s 3d As] [3h]
+Offsuit checks
+allreds checks
+*** RIVER *** [5s 3d As 3h] [8s]
+Offsuit bets 16
+allreds calls 16
+allreds shows [5d Td]
+Offsuit shows [9c 3s]
+Offsuit wins the pot (40)
+
+MIT Pokerbots Final Tournament - Hand #56
+Seat 1: allreds (655)
+Seat 2: Offsuit (145)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5d 8d]
+Offsuit raises to 8
+allreds calls 6
+*** FLOP *** [5c Kd Ks]
+allreds bets 8
+Offsuit folds
+Uncalled bet of 8 returned to allreds
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #57
+Seat 1: allreds (663)
+Seat 2: Offsuit (137)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jd 9c]
+allreds raises to 6
+Offsuit folds
+Uncalled bet of 4 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #58
+Seat 1: allreds (665)
+Seat 2: Offsuit (135)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [7h 9d]
+Offsuit raises to 8
+allreds calls 6
+*** FLOP *** [5s 6s Th]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #59
+Seat 1: allreds (657)
+Seat 2: Offsuit (143)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8s Td]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #60
+Seat 1: allreds (656)
+Seat 2: Offsuit (144)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qs 9c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [2d 6d 3h]
+allreds bets 2
+Offsuit raises to 12
+allreds raises to 26
+Offsuit calls 14
+*** TURN *** [2d 6d 3h] [8s]
+allreds checks
+Offsuit checks
+*** RIVER *** [2d 6d 3h 8s] [4d]
+allreds checks
+Offsuit checks
+allreds shows [Qs 9c]
+Offsuit shows [3s 6s]
+Offsuit wins the pot (56)
+
+MIT Pokerbots Final Tournament - Hand #61
+Seat 1: allreds (628)
+Seat 2: Offsuit (172)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [4c 5c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #62
+Seat 1: allreds (627)
+Seat 2: Offsuit (173)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Qs 9c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Jh Td Qh]
+allreds bets 2
+Offsuit raises to 12
+allreds calls 10
+*** TURN *** [Jh Td Qh] [Ad]
+allreds bets 14
+Offsuit folds
+Uncalled bet of 14 returned to allreds
+allreds wins the pot (28)
+
+MIT Pokerbots Final Tournament - Hand #63
+Seat 1: allreds (641)
+Seat 2: Offsuit (159)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6d 5c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #64
+Seat 1: allreds (640)
+Seat 2: Offsuit (160)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Th Kh]
+Offsuit calls 1
+allreds raises to 14
+Offsuit folds
+Uncalled bet of 12 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #65
+Seat 1: allreds (642)
+Seat 2: Offsuit (158)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8s 9s]
+allreds calls 1
+Offsuit checks
+*** FLOP *** [Jc Th 3h]
+Offsuit checks
+allreds checks
+*** TURN *** [Jc Th 3h] [Jd]
+Offsuit checks
+allreds checks
+*** RIVER *** [Jc Th 3h Jd] [5s]
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #66
+Seat 1: allreds (640)
+Seat 2: Offsuit (160)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6s 2h]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [2s Ah 3s]
+allreds bets 2
+Offsuit calls 2
+*** TURN *** [2s Ah 3s] [2d]
+allreds bets 4
+Offsuit calls 4
+*** RIVER *** [2s Ah 3s 2d] [Ks]
+allreds checks
+Offsuit checks
+allreds shows [6s 2h]
+Offsuit shows [Th Js]
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #67
+Seat 1: allreds (648)
+Seat 2: Offsuit (152)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3h 6c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #68
+Seat 1: allreds (647)
+Seat 2: Offsuit (153)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ks 8c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [2s Qc Qd]
+allreds checks
+Offsuit checks
+*** TURN *** [2s Qc Qd] [9h]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #69
+Seat 1: allreds (645)
+Seat 2: Offsuit (155)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [4h 3s]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #70
+Seat 1: allreds (644)
+Seat 2: Offsuit (156)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ac 6s]
+Offsuit calls 1
+allreds raises to 644, and is all in
+Offsuit folds
+Uncalled bet of 642 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #71
+Seat 1: allreds (646)
+Seat 2: Offsuit (154)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Kh 7h]
+allreds raises to 646, and is all in
+Offsuit folds
+Uncalled bet of 644 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #72
+Seat 1: allreds (648)
+Seat 2: Offsuit (152)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [8c Qs]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #73
+Seat 1: allreds (646)
+Seat 2: Offsuit (154)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3s Th]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #74
+Seat 1: allreds (645)
+Seat 2: Offsuit (155)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [9h 9s]
+Offsuit calls 1
+allreds raises to 645, and is all in
+Offsuit folds
+Uncalled bet of 643 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #75
+Seat 1: allreds (647)
+Seat 2: Offsuit (153)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [8h 7h]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #76
+Seat 1: allreds (646)
+Seat 2: Offsuit (154)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2d 9d]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #77
+Seat 1: allreds (644)
+Seat 2: Offsuit (156)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6d Qd]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #78
+Seat 1: allreds (643)
+Seat 2: Offsuit (157)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5s 3d]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [7d 6c Ks]
+allreds checks
+Offsuit checks
+*** TURN *** [7d 6c Ks] [2h]
+allreds checks
+Offsuit checks
+*** RIVER *** [7d 6c Ks 2h] [5h]
+allreds checks
+Offsuit checks
+allreds shows [5s 3d]
+Offsuit shows [8s Ad]
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #79
+Seat 1: allreds (645)
+Seat 2: Offsuit (155)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Js 2s]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #80
+Seat 1: allreds (644)
+Seat 2: Offsuit (156)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Ts Kd]
+Offsuit calls 1
+allreds raises to 644, and is all in
+Offsuit folds
+Uncalled bet of 642 returned to allreds
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #81
+Seat 1: allreds (646)
+Seat 2: Offsuit (154)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [4d Jd]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #82
+Seat 1: allreds (645)
+Seat 2: Offsuit (155)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [4d Qc]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Ad 5h Qh]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #83
+Seat 1: allreds (643)
+Seat 2: Offsuit (157)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7c Th]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #84
+Seat 1: allreds (642)
+Seat 2: Offsuit (158)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [5d Kc]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [3h Qs Kh]
+allreds checks
+Offsuit checks
+*** TURN *** [3h Qs Kh] [5s]
+allreds checks
+Offsuit checks
+*** RIVER *** [3h Qs Kh 5s] [Jc]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #85
+Seat 1: allreds (640)
+Seat 2: Offsuit (160)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Tc 6d]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #86
+Seat 1: allreds (639)
+Seat 2: Offsuit (161)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Tc Ts]
+Offsuit raises to 8
+allreds raises to 639, and is all in
+Offsuit folds
+Uncalled bet of 631 returned to allreds
+allreds wins the pot (16)
+
+MIT Pokerbots Final Tournament - Hand #87
+Seat 1: allreds (647)
+Seat 2: Offsuit (153)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Td 3c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #88
+Seat 1: allreds (646)
+Seat 2: Offsuit (154)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [Kh 3h]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #89
+Seat 1: allreds (644)
+Seat 2: Offsuit (156)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [6s 5d]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #90
+Seat 1: allreds (643)
+Seat 2: Offsuit (157)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3s Ks]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Ah Td 4d]
+allreds checks
+Offsuit checks
+*** TURN *** [Ah Td 4d] [4c]
+allreds checks
+Offsuit checks
+*** RIVER *** [Ah Td 4d 4c] [8s]
+allreds checks
+Offsuit checks
+allreds shows [3s Ks]
+Offsuit shows [2s 3c]
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #91
+Seat 1: allreds (645)
+Seat 2: Offsuit (155)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Tc 7c]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #92
+Seat 1: allreds (644)
+Seat 2: Offsuit (156)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [3s 6s]
+Offsuit raises to 8
+allreds folds
+Uncalled bet of 6 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #93
+Seat 1: allreds (642)
+Seat 2: Offsuit (158)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [Jc 3s]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #94
+Seat 1: allreds (641)
+Seat 2: Offsuit (159)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [9h 4c]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Ah Qc 3h]
+allreds checks
+Offsuit checks
+*** TURN *** [Ah Qc 3h] [Qh]
+allreds checks
+Offsuit checks
+*** RIVER *** [Ah Qc 3h Qh] [7h]
+allreds checks
+Offsuit checks
+allreds shows [9h 4c]
+Offsuit shows [Jc 4h]
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #95
+Seat 1: allreds (643)
+Seat 2: Offsuit (157)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [3s Kd]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #96
+Seat 1: allreds (642)
+Seat 2: Offsuit (158)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [6c 2s]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [5s Tc 2c]
+allreds checks
+Offsuit checks
+*** TURN *** [5s Tc 2c] [8c]
+allreds checks
+Offsuit checks
+*** RIVER *** [5s Tc 2c 8c] [3s]
+allreds checks
+Offsuit checks
+allreds shows [6c 2s]
+Offsuit shows [Qs 9c]
+allreds wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #97
+Seat 1: allreds (644)
+Seat 2: Offsuit (156)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [5d 7h]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #98
+Seat 1: allreds (643)
+Seat 2: Offsuit (157)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2d 6h]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Th 8d Kd]
+allreds checks
+Offsuit checks
+*** TURN *** [Th 8d Kd] [2h]
+allreds checks
+Offsuit checks
+*** RIVER *** [Th 8d Kd 2h] [8s]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #99
+Seat 1: allreds (641)
+Seat 2: Offsuit (159)
+allreds posts the small blind of 1
+Offsuit posts the big blind of 2
+The button is in seat #1
+Dealt to allreds [7h 6h]
+allreds folds
+Uncalled bet of 1 returned to Offsuit
+Offsuit wins the pot (2)
+
+MIT Pokerbots Final Tournament - Hand #100
+Seat 1: allreds (640)
+Seat 2: Offsuit (160)
+Offsuit posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [2d Qc]
+Offsuit calls 1
+allreds checks
+*** FLOP *** [Tc Jh 8s]
+allreds checks
+Offsuit bets 8
+allreds folds
+Uncalled bet of 8 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #101
+Seat 1: allreds (638)
+Seat 2: Offsuit (162)
+allreds posts the small blind of 2
+Offsuit posts the big blind of 4
+The button is in seat #1
+Dealt to allreds [6d 7s]
+allreds folds
+Uncalled bet of 2 returned to Offsuit
+Offsuit wins the pot (4)
+
+MIT Pokerbots Final Tournament - Hand #102
+Seat 1: allreds (636)
+Seat 2: Offsuit (164)
+Offsuit posts the small blind of 2
+allreds posts the big blind of 4
+The button is in seat #2
+Dealt to allreds [8h 4s]
+Offsuit calls 2
+allreds checks
+*** FLOP *** [Jh Ks 3h]
+allreds checks
+Offsuit checks
+*** TURN *** [Jh Ks 3h] [3c]
+allreds checks
+Offsuit checks
+*** RIVER *** [Jh Ks 3h 3c] [7c]
+allreds checks
+Offsuit checks
+allreds shows [8h 4s]
+Offsuit shows [Th 7h]
+Offsuit wins the pot (8)
+
+MIT Pokerbots Final Tournament - Hand #103
+Seat 1: allreds (632)
+Seat 2: Offsuit (168)
+allreds posts the small blind of 2
+Offsuit posts the big blind of 4
+The button is in seat #1
+Dealt to allreds [Qd 9d]
+allreds raises to 632, and is all in
+Offsuit calls 164, and is all in
+Uncalled bet of 464 returned to allreds
+*** FLOP *** [Qh 6d 6c]
+*** TURN *** [Qh 6d 6c] [4c]
+*** RIVER *** [Qh 6d 6c 4c] [Js]
+allreds shows [Qd 9d]
+Offsuit shows [Kh 8c]
+allreds wins the pot (336)
+
+allreds wins the match in 103 hands!
+*******************************************************************************

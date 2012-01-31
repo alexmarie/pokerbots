@@ -1,0 +1,41 @@
+FullTiltPoker Game #7740316869: Table Gateway (6 max) - $2/$4 - No Limit Hold'em - 13:39:47 ET - 2008/08/21
+Seat 1: Hero ($400.30)
+Seat 2: Daloise ($461)
+Seat 3: play4funzies ($1,126.10)
+Seat 4: Juravlev ($506)
+Seat 5: dahotshot ($556.40)
+Seat 6: pickless ($394)
+Juravlev posts the small blind of $2
+dahotshot posts the big blind of $4
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [2s 2c]
+pickless folds
+Hero raises to $14
+Daloise folds
+play4funzies calls $14
+Juravlev raises to $72
+dahotshot folds
+Hero has 15 seconds left to act
+Hero raises to $400.30, and is all in
+play4funzies folds
+Juravlev has 15 seconds left to act
+Juravlev calls $328.30
+Hero shows [2s 2c]
+Juravlev shows [As Qc]
+*** FLOP *** [Jd 4c 3h]
+*** TURN *** [Jd 4c 3h] [7c]
+*** RIVER *** [Jd 4c 3h 7c] [Ad]
+Hero shows a pair of Twos
+Juravlev shows a pair of Aces
+Juravlev wins the pot ($815.60) with a pair of Aces
+Hero adds $400
+*** SUMMARY ***
+Total pot $818.60 | Rake $3
+Board: [Jd 4c 3h 7c Ad]
+Seat 1: Hero showed [2s 2c] and lost with a pair of Twos
+Seat 2: Daloise didn't bet (folded)
+Seat 3: play4funzies (button) folded before the Flop
+Seat 4: Juravlev (small blind) showed [As Qc] and won ($815.60) with a pair of Aces
+Seat 5: dahotshot (big blind) folded before the Flop
+Seat 6: pickless didn't bet (folded)
