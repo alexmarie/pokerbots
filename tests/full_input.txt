@@ -1,0 +1,24 @@
+*******************************************************************************
+MIT Pokerbots Final Tournament - allreds vs. MetaBot
+
+MIT Pokerbots Final Tournament - Hand #4
+Seat 1: allreds (403)
+Seat 2: MetaBot (397)
+MetaBot posts the small blind of 1
+allreds posts the big blind of 2
+The button is in seat #2
+Dealt to allreds [9s 8c]
+MetaBot raises to 5
+allreds calls 3
+*** FLOP *** [Kh 5h Qs]
+allreds checks
+MetaBot checks
+*** TURN *** [Kh 5h Qs] [7h]
+allreds checks
+MetaBot checks
+*** RIVER *** [Kh 5h Qs 7h] [4c]
+allreds checks
+MetaBot checks
+allreds shows [9s 8c]
+MetaBot shows [Th Ac]
+MetaBot wins the pot (10)

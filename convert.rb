@@ -1,7 +1,7 @@
 #! /usr/bin/ruby
 
 file = ARGV[0]
-time = Time.now
+time = Time.utc 2012, 1, 1
 
 lines = File.new(file).readlines
 lines = lines[3..-1] #remove headers
@@ -13,7 +13,7 @@ lines.each do |line|
     time += 1
   else
     line.sub! /\((\d+)\)/, '($\1)' if line =~ /Seat/
-    line.sub! /(\d+)/, '$\1' unless line =~ /Dealt|Seat|button/
+    line.sub! /(\d+)/, '$\1' if line =~ /posts|raises|calls|wins|returned/
     puts line.strip
     puts '*** HOLE CARDS ***' if line =~ /button/
   end

@@ -1,4 +1,4 @@
-FullTiltPoker Game #1: Table Gateway (2 max) - $1/$2 - No Limit Hold'em - 12:00:00 ET - 2011/01/01
+FullTiltPoker Game #1: Table Gateway (2 max) - $1/$2 - No Limit Hold'em - 00:00:00 ET - 2012/01/01
 Seat 1: allreds ($400)
 Seat 2: MetaBot ($400)
 allreds posts the small blind of $1
