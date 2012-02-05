@@ -1,7 +1,7 @@
 FullTiltPoker Game #2: Table Gateway (2 max) - $1/$2 - No Limit Hold'em - 00:00:01 ET - 2012/01/01
-Seat 1: FlipFlop3003 ($#{stack})
-Seat 2: Prime3004 ($#{stack})
-Seat 3: NotElectrical3005 ($#{stack})
+Seat 1: FlipFlop3003 ($1000000)
+Seat 2: Prime3004 ($1000000)
+Seat 3: NotElectrical3005 ($1000000)
 Prime3004 posts the blind of $1
 NotElectrical3005 posts the blind of $2
 The button is in seat #1

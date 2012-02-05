@@ -19,7 +19,7 @@ MetaBot posts the small blind of $1
 allreds posts the big blind of $2
 The button is in seat #2
 Dealt to allreds [Kd 6c]
-MetaBot calls $1
+MetaBot calls 1 $1
 allreds raises to $14
 MetaBot folds
 Uncalled bet of $12 returned to allreds
@@ -44,7 +44,7 @@ allreds posts the big blind of $2
 The button is in seat #2
 Dealt to allreds [9s 8c]
 MetaBot raises to $5
-allreds calls $3
+allreds calls 3 $3
 *** FLOP *** [Kh 5h Qs]
 allreds checks
 MetaBot checks

@@ -1,7 +1,7 @@
 FullTiltPoker Game #1: Table Gateway (2 max) - $1/$2 - No Limit Hold'em - 00:00:00 ET - 2012/01/01
-Seat 1: Prime3004 ($#{stack})
-Seat 2: NotElectrical3005 ($#{stack})
-Seat 3: FlipFlop3003 ($#{stack})
+Seat 1: Prime3004 ($999999)
+Seat 2: NotElectrical3005 ($1000001)
+Seat 3: FlipFlop3003 ($1000000)
 NotElectrical3005 posts the blind of $1
 FlipFlop3003 posts the blind of $2
 The button is in seat #1
@@ -10,18 +10,18 @@ Dealt to NotElectrical3005 [7h Qh]
 Dealt to FlipFlop3003 [9h 7d]
 Dealt to Prime3004 [Ah Jd]
 Prime3004 raises to $13
-NotElectrical3005 calls
+NotElectrical3005 calls $13
 FlipFlop3003 folds
 *** FLOP *** [Ks Td 3s]
 NotElectrical3005 checks
 Prime3004 bets $42
-NotElectrical3005 calls
+NotElectrical3005 calls $42
 *** TURN *** [Ks Td 3s] [Qc]
 NotElectrical3005 checks
 Prime3004 bets $145
-NotElectrical3005 calls
+NotElectrical3005 calls $145
 *** RIVER *** [Ks Td 3s Qc] [2d]
-Prime3004 shows Ah Jd (Straight)
-NotElectrical3005 shows 7h Qh (Pair)
+Prime3004 shows [Ah Jd] (Straight)
+NotElectrical3005 shows [7h Qh] (Pair)
 Prime3004 wins the pot ($402)
 
