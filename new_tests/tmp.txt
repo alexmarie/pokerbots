@@ -1,0 +1,6020 @@
+file is input/3hand_flop_input.txt
+output file is results/3hand_flop_input_fulltilt.txt
+initial stack is -1
+stack is 99999
+initial stack is 1
+stack is 100001
+initial stack is 0
+stack is 100000
+file is input/3hand_single_hand_input.txt
+output file is results/3hand_single_hand_input_fulltilt.txt
+initial stack is 0
+stack is 100000
+initial stack is 0
+stack is 100000
+initial stack is 0
+stack is 100000
+file is input/multi_hand_input.txt
+output file is results/multi_hand_input_fulltilt.txt
+file is input/Prime_vs_NotElectrical_input.txt
+output file is results/Prime_vs_NotElectrical_input_fulltilt.txt
+initial stack is 0
+stack is 100000
+initial stack is 0
+stack is 100000
+initial stack is 0
+stack is 100000
+initial stack is -1
+stack is 99999
+initial stack is 1
+stack is 100001
+initial stack is 0
+stack is 100000
+initial stack is -199
+stack is 99801
+initial stack is -2
+stack is 99998
+initial stack is 201
+stack is 100201
+initial stack is -4
+stack is 99996
+initial stack is 203
+stack is 100203
+initial stack is -199
+stack is 99801
+initial stack is 202
+stack is 100202
+initial stack is -198
+stack is 99802
+initial stack is -4
+stack is 99996
+initial stack is -199
+stack is 99801
+initial stack is -6
+stack is 99994
+initial stack is 205
+stack is 100205
+initial stack is -8
+stack is 99992
+initial stack is 234
+stack is 100234
+initial stack is -226
+stack is 99774
+initial stack is 233
+stack is 100233
+initial stack is -225
+stack is 99775
+initial stack is -8
+stack is 99992
+initial stack is -210
+stack is 99790
+initial stack is -23
+stack is 99977
+initial stack is 233
+stack is 100233
+initial stack is -24
+stack is 99976
+initial stack is 234
+stack is 100234
+initial stack is -210
+stack is 99790
+initial stack is 233
+stack is 100233
+initial stack is -150
+stack is 99850
+initial stack is -83
+stack is 99917
+initial stack is -142
+stack is 99858
+initial stack is -91
+stack is 99909
+initial stack is 233
+stack is 100233
+initial stack is -92
+stack is 99908
+initial stack is 233
+stack is 100233
+initial stack is -141
+stack is 99859
+initial stack is 338
+stack is 100338
+initial stack is -244
+stack is 99756
+initial stack is -94
+stack is 99906
+initial stack is -242
+stack is 99758
+initial stack is -96
+stack is 99904
+initial stack is 338
+stack is 100338
+initial stack is -65
+stack is 99935
+initial stack is 336
+stack is 100336
+initial stack is -271
+stack is 99729
+initial stack is 335
+stack is 100335
+initial stack is -305
+stack is 99695
+initial stack is -30
+stack is 99970
+initial stack is -322
+stack is 99678
+initial stack is -13
+stack is 99987
+initial stack is 335
+stack is 100335
+initial stack is -2
+stack is 99998
+initial stack is 333
+stack is 100333
+initial stack is -331
+stack is 99669
+initial stack is 486
+stack is 100486
+initial stack is -484
+stack is 99516
+initial stack is -2
+stack is 99998
+initial stack is -500
+stack is 99500
+initial stack is 14
+stack is 100014
+initial stack is 486
+stack is 100486
+initial stack is 13
+stack is 100013
+initial stack is 685
+stack is 100685
+initial stack is -698
+stack is 99302
+initial stack is 684
+stack is 100684
+initial stack is -697
+stack is 99303
+initial stack is 13
+stack is 100013
+initial stack is -698
+stack is 99302
+initial stack is 11
+stack is 100011
+initial stack is 687
+stack is 100687
+initial stack is 10
+stack is 100010
+initial stack is 668
+stack is 100668
+initial stack is -678
+stack is 99322
+initial stack is 667
+stack is 100667
+initial stack is -677
+stack is 99323
+initial stack is 10
+stack is 100010
+initial stack is -678
+stack is 99322
+initial stack is 8
+stack is 100008
+initial stack is 670
+stack is 100670
+initial stack is 7
+stack is 100007
+initial stack is 668
+stack is 100668
+initial stack is -675
+stack is 99325
+initial stack is 861
+stack is 100861
+initial stack is -864
+stack is 99136
+initial stack is 3
+stack is 100003
+initial stack is -897
+stack is 99103
+initial stack is 36
+stack is 100036
+initial stack is 861
+stack is 100861
+initial stack is 35
+stack is 100035
+initial stack is 859
+stack is 100859
+initial stack is -894
+stack is 99106
+initial stack is 858
+stack is 100858
+initial stack is -809
+stack is 99191
+initial stack is -49
+stack is 99951
+initial stack is -807
+stack is 99193
+initial stack is -51
+stack is 99949
+initial stack is 858
+stack is 100858
+initial stack is -53
+stack is 99947
+initial stack is 660
+stack is 100660
+initial stack is -607
+stack is 99393
+initial stack is 658
+stack is 100658
+initial stack is -617
+stack is 99383
+initial stack is -41
+stack is 99959
+initial stack is -637
+stack is 99363
+initial stack is -43
+stack is 99957
+initial stack is 680
+stack is 100680
+initial stack is -44
+stack is 99956
+initial stack is 879
+stack is 100879
+initial stack is -835
+stack is 99165
+initial stack is 878
+stack is 100878
+initial stack is -837
+stack is 99163
+initial stack is -41
+stack is 99959
+initial stack is -691
+stack is 99309
+initial stack is -43
+stack is 99957
+initial stack is 734
+stack is 100734
+initial stack is 36
+stack is 100036
+initial stack is 732
+stack is 100732
+initial stack is -768
+stack is 99232
+initial stack is 732
+stack is 100732
+initial stack is -768
+stack is 99232
+initial stack is 36
+stack is 100036
+initial stack is -766
+stack is 99234
+initial stack is 34
+stack is 100034
+initial stack is 732
+stack is 100732
+initial stack is 32
+stack is 100032
+initial stack is 766
+stack is 100766
+initial stack is -798
+stack is 99202
+initial stack is 794
+stack is 100794
+initial stack is -800
+stack is 99200
+initial stack is 6
+stack is 100006
+initial stack is -835
+stack is 99165
+initial stack is 41
+stack is 100041
+initial stack is 794
+stack is 100794
+initial stack is 49
+stack is 100049
+initial stack is 792
+stack is 100792
+initial stack is -841
+stack is 99159
+initial stack is 799
+stack is 100799
+initial stack is -843
+stack is 99157
+initial stack is 44
+stack is 100044
+initial stack is -841
+stack is 99159
+initial stack is 42
+stack is 100042
+initial stack is 799
+stack is 100799
+initial stack is 41
+stack is 100041
+initial stack is 800
+stack is 100800
+initial stack is -841
+stack is 99159
+initial stack is 843
+stack is 100843
+initial stack is -882
+stack is 99118
+initial stack is 39
+stack is 100039
+initial stack is -888
+stack is 99112
+initial stack is 45
+stack is 100045
+initial stack is 843
+stack is 100843
+initial stack is 44
+stack is 100044
+initial stack is 844
+stack is 100844
+initial stack is -888
+stack is 99112
+initial stack is 843
+stack is 100843
+initial stack is -890
+stack is 99110
+initial stack is 47
+stack is 100047
+initial stack is -918
+stack is 99082
+initial stack is 75
+stack is 100075
+initial stack is 843
+stack is 100843
+initial stack is 63
+stack is 100063
+initial stack is 841
+stack is 100841
+initial stack is -904
+stack is 99096
+initial stack is 851
+stack is 100851
+initial stack is -906
+stack is 99094
+initial stack is 55
+stack is 100055
+initial stack is -954
+stack is 99046
+initial stack is 53
+stack is 100053
+initial stack is 901
+stack is 100901
+initial stack is 52
+stack is 100052
+initial stack is 899
+stack is 100899
+initial stack is -951
+stack is 99049
+initial stack is 898
+stack is 100898
+initial stack is -950
+stack is 99050
+initial stack is 52
+stack is 100052
+initial stack is -948
+stack is 99052
+initial stack is 50
+stack is 100050
+initial stack is 898
+stack is 100898
+initial stack is 33
+stack is 100033
+initial stack is 915
+stack is 100915
+initial stack is -948
+stack is 99052
+initial stack is 914
+stack is 100914
+initial stack is -948
+stack is 99052
+initial stack is 34
+stack is 100034
+initial stack is -949
+stack is 99051
+initial stack is 32
+stack is 100032
+initial stack is 917
+stack is 100917
+initial stack is 23
+stack is 100023
+initial stack is 866
+stack is 100866
+initial stack is -889
+stack is 99111
+initial stack is 865
+stack is 100865
+initial stack is -891
+stack is 99109
+initial stack is 26
+stack is 100026
+initial stack is -892
+stack is 99108
+initial stack is 24
+stack is 100024
+initial stack is 868
+stack is 100868
+initial stack is 22
+stack is 100022
+initial stack is 979
+stack is 100979
+initial stack is -1001
+stack is 98999
+initial stack is 971
+stack is 100971
+initial stack is -993
+stack is 99007
+initial stack is 22
+stack is 100022
+initial stack is -982
+stack is 99018
+initial stack is 11
+stack is 100011
+initial stack is 971
+stack is 100971
+initial stack is 10
+stack is 100010
+initial stack is 972
+stack is 100972
+initial stack is -982
+stack is 99018
+initial stack is 971
+stack is 100971
+initial stack is -979
+stack is 99021
+initial stack is 8
+stack is 100008
+initial stack is -1179
+stack is 98821
+initial stack is 6
+stack is 100006
+initial stack is 1173
+stack is 101173
+initial stack is 4
+stack is 100004
+initial stack is 1175
+stack is 101175
+initial stack is -1179
+stack is 98821
+initial stack is 1177
+stack is 101177
+initial stack is -1181
+stack is 98819
+initial stack is 4
+stack is 100004
+initial stack is -1099
+stack is 98901
+initial stack is 2
+stack is 100002
+initial stack is 1097
+stack is 101097
+initial stack is -3
+stack is 99997
+initial stack is 927
+stack is 100927
+initial stack is -924
+stack is 99076
+initial stack is 926
+stack is 100926
+initial stack is -926
+stack is 99074
+initial stack is 0
+stack is 100000
+initial stack is -922
+stack is 99078
+initial stack is -4
+stack is 99996
+initial stack is 926
+stack is 100926
+initial stack is -6
+stack is 99994
+initial stack is 928
+stack is 100928
+initial stack is -922
+stack is 99078
+initial stack is 1127
+stack is 101127
+initial stack is -1121
+stack is 98879
+initial stack is -6
+stack is 99994
+initial stack is -1117
+stack is 98883
+initial stack is -8
+stack is 99992
+initial stack is 1125
+stack is 101125
+initial stack is -10
+stack is 99990
+initial stack is 1325
+stack is 101325
+initial stack is -1315
+stack is 98685
+initial stack is 1324
+stack is 101324
+initial stack is -1314
+stack is 98686
+initial stack is -10
+stack is 99990
+initial stack is -1315
+stack is 98685
+initial stack is -12
+stack is 99988
+initial stack is 1327
+stack is 101327
+initial stack is -13
+stack is 99987
+initial stack is 1413
+stack is 101413
+initial stack is -1400
+stack is 98600
+initial stack is 1459
+stack is 101459
+initial stack is -1446
+stack is 98554
+initial stack is -13
+stack is 99987
+initial stack is -1447
+stack is 98553
+initial stack is -15
+stack is 99985
+initial stack is 1462
+stack is 101462
+initial stack is -16
+stack is 99984
+initial stack is 1453
+stack is 101453
+initial stack is -1437
+stack is 98563
+initial stack is 1455
+stack is 101455
+initial stack is -1439
+stack is 98561
+initial stack is -16
+stack is 99984
+initial stack is -1454
+stack is 98546
+initial stack is -1
+stack is 99999
+initial stack is 1455
+stack is 101455
+initial stack is -9
+stack is 99991
+initial stack is 1426
+stack is 101426
+initial stack is -1417
+stack is 98583
+initial stack is 1425
+stack is 101425
+initial stack is -1421
+stack is 98579
+initial stack is -4
+stack is 99996
+initial stack is -1419
+stack is 98581
+initial stack is -6
+stack is 99994
+initial stack is 1425
+stack is 101425
+initial stack is -7
+stack is 99993
+initial stack is 1412
+stack is 101412
+initial stack is -1405
+stack is 98595
+initial stack is 1418
+stack is 101418
+initial stack is -1407
+stack is 98593
+initial stack is -11
+stack is 99989
+initial stack is -1409
+stack is 98591
+initial stack is -9
+stack is 99991
+initial stack is 1418
+stack is 101418
+initial stack is -11
+stack is 99989
+initial stack is 1618
+stack is 101618
+initial stack is -1607
+stack is 98393
+initial stack is 1819
+stack is 101819
+initial stack is -1806
+stack is 98194
+initial stack is -13
+stack is 99987
+initial stack is -1810
+stack is 98190
+initial stack is -9
+stack is 99991
+initial stack is 1819
+stack is 101819
+initial stack is -10
+stack is 99990
+initial stack is 1820
+stack is 101820
+initial stack is -1810
+stack is 98190
+initial stack is 1822
+stack is 101822
+initial stack is -1812
+stack is 98188
+initial stack is -10
+stack is 99990
+initial stack is -1810
+stack is 98190
+initial stack is -12
+stack is 99988
+initial stack is 1822
+stack is 101822
+initial stack is -13
+stack is 99987
+initial stack is 1783
+stack is 101783
+initial stack is -1770
+stack is 98230
+initial stack is 1781
+stack is 101781
+initial stack is -1766
+stack is 98234
+initial stack is -15
+stack is 99985
+initial stack is -1777
+stack is 98223
+initial stack is -4
+stack is 99996
+initial stack is 1781
+stack is 101781
+initial stack is -6
+stack is 99994
+initial stack is 1981
+stack is 101981
+initial stack is -1975
+stack is 98025
+initial stack is 2007
+stack is 102007
+initial stack is -1999
+stack is 98001
+initial stack is -8
+stack is 99992
+initial stack is -2010
+stack is 97990
+initial stack is 3
+stack is 100003
+initial stack is 2007
+stack is 102007
+initial stack is 2
+stack is 100002
+initial stack is 2005
+stack is 102005
+initial stack is -2007
+stack is 97993
+initial stack is 2009
+stack is 102009
+initial stack is -2009
+stack is 97991
+initial stack is 0
+stack is 100000
+initial stack is -2010
+stack is 97990
+initial stack is -2
+stack is 99998
+initial stack is 2012
+stack is 102012
+initial stack is -3
+stack is 99997
+initial stack is 2013
+stack is 102013
+initial stack is -2010
+stack is 97990
+initial stack is 2012
+stack is 102012
+initial stack is -2016
+stack is 97984
+initial stack is 4
+stack is 100004
+initial stack is -2020
+stack is 97980
+initial stack is 10
+stack is 100010
+initial stack is 2010
+stack is 102010
+initial stack is 8
+stack is 100008
+initial stack is 2210
+stack is 102210
+initial stack is -2218
+stack is 97782
+initial stack is 2209
+stack is 102209
+initial stack is -2215
+stack is 97785
+initial stack is 6
+stack is 100006
+initial stack is -2219
+stack is 97781
+initial stack is 10
+stack is 100010
+initial stack is 2209
+stack is 102209
+initial stack is 9
+stack is 100009
+initial stack is 2013
+stack is 102013
+initial stack is -2022
+stack is 97978
+initial stack is 2012
+stack is 102012
+initial stack is -2019
+stack is 97981
+initial stack is 7
+stack is 100007
+initial stack is -2017
+stack is 97983
+initial stack is 5
+stack is 100005
+initial stack is 2012
+stack is 102012
+initial stack is 4
+stack is 100004
+initial stack is 2012
+stack is 102012
+initial stack is -2016
+stack is 97984
+initial stack is 2011
+stack is 102011
+initial stack is -2018
+stack is 97982
+initial stack is 7
+stack is 100007
+initial stack is -2019
+stack is 97981
+initial stack is 5
+stack is 100005
+initial stack is 2014
+stack is 102014
+initial stack is 4
+stack is 100004
+initial stack is 1999
+stack is 101999
+initial stack is -2003
+stack is 97997
+initial stack is 1998
+stack is 101998
+initial stack is -2007
+stack is 97993
+initial stack is 9
+stack is 100009
+initial stack is -2009
+stack is 97991
+initial stack is 11
+stack is 100011
+initial stack is 1998
+stack is 101998
+initial stack is 9
+stack is 100009
+initial stack is 2000
+stack is 102000
+initial stack is -2009
+stack is 97991
+initial stack is 1977
+stack is 101977
+initial stack is -1982
+stack is 98018
+initial stack is 5
+stack is 100005
+initial stack is -1928
+stack is 98072
+initial stack is 3
+stack is 100003
+initial stack is 1925
+stack is 101925
+initial stack is 2
+stack is 100002
+initial stack is 1926
+stack is 101926
+initial stack is -1928
+stack is 98072
+initial stack is 1925
+stack is 101925
+initial stack is -1930
+stack is 98070
+initial stack is 5
+stack is 100005
+initial stack is -1939
+stack is 98061
+initial stack is 14
+stack is 100014
+initial stack is 1925
+stack is 101925
+initial stack is 13
+stack is 100013
+initial stack is 2126
+stack is 102126
+initial stack is -2139
+stack is 97861
+initial stack is 2128
+stack is 102128
+initial stack is -2141
+stack is 97859
+initial stack is 13
+stack is 100013
+initial stack is -2341
+stack is 97659
+initial stack is 11
+stack is 100011
+initial stack is 2330
+stack is 102330
+initial stack is 10
+stack is 100010
+initial stack is 2197
+stack is 102197
+initial stack is -2207
+stack is 97793
+initial stack is 1998
+stack is 101998
+initial stack is -2006
+stack is 97994
+initial stack is 8
+stack is 100008
+initial stack is -2007
+stack is 97993
+initial stack is 6
+stack is 100006
+initial stack is 2001
+stack is 102001
+initial stack is 4
+stack is 100004
+initial stack is 2003
+stack is 102003
+initial stack is -2007
+stack is 97993
+initial stack is 2002
+stack is 102002
+initial stack is -2006
+stack is 97994
+initial stack is 4
+stack is 100004
+initial stack is -2004
+stack is 97996
+initial stack is 2
+stack is 100002
+initial stack is 2002
+stack is 102002
+initial stack is 0
+stack is 100000
+initial stack is 2004
+stack is 102004
+initial stack is -2004
+stack is 97996
+initial stack is 2044
+stack is 102044
+initial stack is -2042
+stack is 97958
+initial stack is -2
+stack is 99998
+initial stack is -2038
+stack is 97962
+initial stack is -6
+stack is 99994
+initial stack is 2044
+stack is 102044
+initial stack is -7
+stack is 99993
+initial stack is 2045
+stack is 102045
+initial stack is -2038
+stack is 97962
+initial stack is 2056
+stack is 102056
+initial stack is -2040
+stack is 97960
+initial stack is -16
+stack is 99984
+initial stack is -2044
+stack is 97956
+initial stack is -12
+stack is 99988
+initial stack is 2056
+stack is 102056
+initial stack is -13
+stack is 99987
+initial stack is 1997
+stack is 101997
+initial stack is -1984
+stack is 98016
+initial stack is 1999
+stack is 101999
+initial stack is -1986
+stack is 98014
+initial stack is -13
+stack is 99987
+initial stack is -1982
+stack is 98018
+initial stack is -17
+stack is 99983
+initial stack is 1999
+stack is 101999
+initial stack is -18
+stack is 99982
+initial stack is 2000
+stack is 102000
+initial stack is -1982
+stack is 98018
+initial stack is 1999
+stack is 101999
+initial stack is -1984
+stack is 98016
+initial stack is -15
+stack is 99985
+initial stack is -1911
+stack is 98089
+initial stack is -25
+stack is 99975
+initial stack is 1936
+stack is 101936
+initial stack is -23
+stack is 99977
+initial stack is 1934
+stack is 101934
+initial stack is -1911
+stack is 98089
+initial stack is 1735
+stack is 101735
+initial stack is -1712
+stack is 98288
+initial stack is -23
+stack is 99977
+initial stack is -1713
+stack is 98287
+initial stack is -25
+stack is 99975
+initial stack is 1738
+stack is 101738
+initial stack is -26
+stack is 99974
+initial stack is 1739
+stack is 101739
+initial stack is -1713
+stack is 98287
+initial stack is 1738
+stack is 101738
+initial stack is -1712
+stack is 98288
+initial stack is -26
+stack is 99974
+initial stack is -1716
+stack is 98284
+initial stack is -22
+stack is 99978
+initial stack is 1738
+stack is 101738
+initial stack is -14
+stack is 99986
+initial stack is 1730
+stack is 101730
+initial stack is -1716
+stack is 98284
+initial stack is 1728
+stack is 101728
+initial stack is -1724
+stack is 98276
+initial stack is -4
+stack is 99996
+initial stack is -1924
+stack is 98076
+initial stack is -6
+stack is 99994
+initial stack is 1930
+stack is 101930
+initial stack is -7
+stack is 99993
+initial stack is 1931
+stack is 101931
+initial stack is -1924
+stack is 98076
+initial stack is 1840
+stack is 101840
+initial stack is -1833
+stack is 98167
+initial stack is -7
+stack is 99993
+initial stack is -1837
+stack is 98163
+initial stack is -3
+stack is 99997
+initial stack is 1840
+stack is 101840
+initial stack is -4
+stack is 99996
+initial stack is 1815
+stack is 101815
+initial stack is -1811
+stack is 98189
+initial stack is 1819
+stack is 101819
+initial stack is -1813
+stack is 98187
+initial stack is -6
+stack is 99994
+initial stack is -1820
+stack is 98180
+initial stack is 1
+stack is 100001
+initial stack is 1819
+stack is 101819
+initial stack is 0
+stack is 100000
+initial stack is 1820
+stack is 101820
+initial stack is -1820
+stack is 98180
+initial stack is 1824
+stack is 101824
+initial stack is -1822
+stack is 98178
+initial stack is -2
+stack is 99998
+initial stack is -1933
+stack is 98067
+initial stack is -4
+stack is 99996
+initial stack is 1937
+stack is 101937
+initial stack is -15
+stack is 99985
+initial stack is 2146
+stack is 102146
+initial stack is -2131
+stack is 97869
+initial stack is 2148
+stack is 102148
+initial stack is -2133
+stack is 97867
+initial stack is -15
+stack is 99985
+initial stack is -2131
+stack is 97869
+initial stack is -17
+stack is 99983
+initial stack is 2148
+stack is 102148
+initial stack is -11
+stack is 99989
+initial stack is 2146
+stack is 102146
+initial stack is -2135
+stack is 97865
+initial stack is 2273
+stack is 102273
+initial stack is -2260
+stack is 97740
+initial stack is -13
+stack is 99987
+initial stack is -2258
+stack is 97742
+initial stack is -15
+stack is 99985
+initial stack is 2273
+stack is 102273
+initial stack is -17
+stack is 99983
+initial stack is 2275
+stack is 102275
+initial stack is -2258
+stack is 97742
+initial stack is 2274
+stack is 102274
+initial stack is -2257
+stack is 97743
+initial stack is -17
+stack is 99983
+initial stack is -2261
+stack is 97739
+initial stack is -13
+stack is 99987
+initial stack is 2274
+stack is 102274
+initial stack is -14
+stack is 99986
+initial stack is 2473
+stack is 102473
+initial stack is -2459
+stack is 97541
+initial stack is 2672
+stack is 102672
+initial stack is -2658
+stack is 97342
+initial stack is -14
+stack is 99986
+initial stack is -2654
+stack is 97346
+initial stack is -18
+stack is 99982
+initial stack is 2672
+stack is 102672
+initial stack is -19
+stack is 99981
+initial stack is 2673
+stack is 102673
+initial stack is -2654
+stack is 97346
+initial stack is 2624
+stack is 102624
+initial stack is -2728
+stack is 97272
+initial stack is 104
+stack is 100104
+initial stack is -2736
+stack is 97264
+initial stack is 116
+stack is 100116
+initial stack is 2620
+stack is 102620
+initial stack is 114
+stack is 100114
+initial stack is 2622
+stack is 102622
+initial stack is -2736
+stack is 97264
+initial stack is 2622
+stack is 102622
+initial stack is -2736
+stack is 97264
+initial stack is 114
+stack is 100114
+initial stack is -2936
+stack is 97064
+initial stack is 314
+stack is 100314
+initial stack is 2622
+stack is 102622
+initial stack is 312
+stack is 100312
+initial stack is 2624
+stack is 102624
+initial stack is -2936
+stack is 97064
+initial stack is 2626
+stack is 102626
+initial stack is -2938
+stack is 97062
+initial stack is 312
+stack is 100312
+initial stack is -2947
+stack is 97053
+initial stack is 321
+stack is 100321
+initial stack is 2626
+stack is 102626
+initial stack is 320
+stack is 100320
+initial stack is 2590
+stack is 102590
+initial stack is -2910
+stack is 97090
+initial stack is 2789
+stack is 102789
+initial stack is -3109
+stack is 96891
+initial stack is 320
+stack is 100320
+initial stack is -3309
+stack is 96691
+initial stack is 318
+stack is 100318
+initial stack is 2991
+stack is 102991
+initial stack is 307
+stack is 100307
+initial stack is 2989
+stack is 102989
+initial stack is -3296
+stack is 96704
+initial stack is 2951
+stack is 102951
+initial stack is -3254
+stack is 96746
+initial stack is 303
+stack is 100303
+initial stack is -3454
+stack is 96546
+initial stack is 503
+stack is 100503
+initial stack is 2951
+stack is 102951
+initial stack is 501
+stack is 100501
+initial stack is 2753
+stack is 102753
+initial stack is -3254
+stack is 96746
+initial stack is 2752
+stack is 102752
+initial stack is -3253
+stack is 96747
+initial stack is 501
+stack is 100501
+initial stack is -3263
+stack is 96737
+initial stack is 511
+stack is 100511
+initial stack is 2752
+stack is 102752
+initial stack is 513
+stack is 100513
+initial stack is 2750
+stack is 102750
+initial stack is -3263
+stack is 96737
+initial stack is 2754
+stack is 102754
+initial stack is -3265
+stack is 96735
+initial stack is 511
+stack is 100511
+initial stack is -3203
+stack is 96797
+initial stack is 509
+stack is 100509
+initial stack is 2694
+stack is 102694
+initial stack is 508
+stack is 100508
+initial stack is 2778
+stack is 102778
+initial stack is -3286
+stack is 96714
+initial stack is 2977
+stack is 102977
+initial stack is -3485
+stack is 96515
+initial stack is 508
+stack is 100508
+initial stack is -3487
+stack is 96513
+initial stack is 510
+stack is 100510
+initial stack is 2977
+stack is 102977
+initial stack is 509
+stack is 100509
+initial stack is 2843
+stack is 102843
+initial stack is -3352
+stack is 96648
+initial stack is 2842
+stack is 102842
+initial stack is -3354
+stack is 96646
+initial stack is 512
+stack is 100512
+initial stack is -3355
+stack is 96645
+initial stack is 510
+stack is 100510
+initial stack is 2845
+stack is 102845
+initial stack is 509
+stack is 100509
+initial stack is 2846
+stack is 102846
+initial stack is -3355
+stack is 96645
+initial stack is 2845
+stack is 102845
+initial stack is -3343
+stack is 96657
+initial stack is 498
+stack is 100498
+initial stack is -3337
+stack is 96663
+initial stack is 492
+stack is 100492
+initial stack is 2845
+stack is 102845
+initial stack is 500
+stack is 100500
+initial stack is 2843
+stack is 102843
+initial stack is -3343
+stack is 96657
+initial stack is 2842
+stack is 102842
+initial stack is -3345
+stack is 96655
+initial stack is 503
+stack is 100503
+initial stack is -3326
+stack is 96674
+initial stack is 501
+stack is 100501
+initial stack is 2825
+stack is 102825
+initial stack is 500
+stack is 100500
+initial stack is 2826
+stack is 102826
+initial stack is -3326
+stack is 96674
+initial stack is 2828
+stack is 102828
+initial stack is -3328
+stack is 96672
+initial stack is 500
+stack is 100500
+initial stack is -3330
+stack is 96670
+initial stack is 502
+stack is 100502
+initial stack is 2828
+stack is 102828
+initial stack is 501
+stack is 100501
+initial stack is 2829
+stack is 102829
+initial stack is -3330
+stack is 96670
+initial stack is 2828
+stack is 102828
+initial stack is -3334
+stack is 96666
+initial stack is 506
+stack is 100506
+initial stack is -3345
+stack is 96655
+initial stack is 517
+stack is 100517
+initial stack is 2828
+stack is 102828
+initial stack is 516
+stack is 100516
+initial stack is 2829
+stack is 102829
+initial stack is -3345
+stack is 96655
+initial stack is 2835
+stack is 102835
+initial stack is -3347
+stack is 96653
+initial stack is 512
+stack is 100512
+initial stack is -3336
+stack is 96664
+initial stack is 501
+stack is 100501
+initial stack is 2835
+stack is 102835
+initial stack is 494
+stack is 100494
+initial stack is 2842
+stack is 102842
+initial stack is -3336
+stack is 96664
+initial stack is 2841
+stack is 102841
+initial stack is -3338
+stack is 96662
+initial stack is 497
+stack is 100497
+initial stack is -3339
+stack is 96661
+initial stack is 495
+stack is 100495
+initial stack is 2844
+stack is 102844
+initial stack is 494
+stack is 100494
+initial stack is 2842
+stack is 102842
+initial stack is -3336
+stack is 96664
+initial stack is 2841
+stack is 102841
+initial stack is -3338
+stack is 96662
+initial stack is 497
+stack is 100497
+initial stack is -3332
+stack is 96668
+initial stack is 491
+stack is 100491
+initial stack is 2841
+stack is 102841
+initial stack is 490
+stack is 100490
+initial stack is 3040
+stack is 103040
+initial stack is -3530
+stack is 96470
+initial stack is 3042
+stack is 103042
+initial stack is -3532
+stack is 96468
+initial stack is 490
+stack is 100490
+initial stack is -3530
+stack is 96470
+initial stack is 488
+stack is 100488
+initial stack is 3042
+stack is 103042
+initial stack is 484
+stack is 100484
+initial stack is 3038
+stack is 103038
+initial stack is -3522
+stack is 96478
+initial stack is 2949
+stack is 102949
+initial stack is -3431
+stack is 96569
+initial stack is 482
+stack is 100482
+initial stack is -3429
+stack is 96571
+initial stack is 480
+stack is 100480
+initial stack is 2949
+stack is 102949
+initial stack is 479
+stack is 100479
+initial stack is 2950
+stack is 102950
+initial stack is -3429
+stack is 96571
+initial stack is 2829
+stack is 102829
+initial stack is -3308
+stack is 96692
+initial stack is 479
+stack is 100479
+initial stack is -3309
+stack is 96691
+initial stack is 477
+stack is 100477
+initial stack is 2832
+stack is 102832
+initial stack is 476
+stack is 100476
+initial stack is 2833
+stack is 102833
+initial stack is -3309
+stack is 96691
+initial stack is 2832
+stack is 102832
+initial stack is -3315
+stack is 96685
+initial stack is 483
+stack is 100483
+initial stack is -3311
+stack is 96689
+initial stack is 479
+stack is 100479
+initial stack is 2832
+stack is 102832
+initial stack is 477
+stack is 100477
+initial stack is 2834
+stack is 102834
+initial stack is -3311
+stack is 96689
+initial stack is 2838
+stack is 102838
+initial stack is -3313
+stack is 96687
+initial stack is 475
+stack is 100475
+initial stack is -3513
+stack is 96487
+initial stack is 473
+stack is 100473
+initial stack is 3040
+stack is 103040
+initial stack is 472
+stack is 100472
+initial stack is 3041
+stack is 103041
+initial stack is -3513
+stack is 96487
+initial stack is 3040
+stack is 103040
+initial stack is -3512
+stack is 96488
+initial stack is 472
+stack is 100472
+initial stack is -3513
+stack is 96487
+initial stack is 466
+stack is 100466
+initial stack is 3047
+stack is 103047
+initial stack is 465
+stack is 100465
+initial stack is 3048
+stack is 103048
+initial stack is -3513
+stack is 96487
+initial stack is 2954
+stack is 102954
+initial stack is -3417
+stack is 96583
+initial stack is 463
+stack is 100463
+initial stack is -3411
+stack is 96589
+initial stack is 457
+stack is 100457
+initial stack is 2954
+stack is 102954
+initial stack is 455
+stack is 100455
+initial stack is 2912
+stack is 102912
+initial stack is -3367
+stack is 96633
+initial stack is 3018
+stack is 103018
+initial stack is -3473
+stack is 96527
+initial stack is 455
+stack is 100455
+initial stack is -3474
+stack is 96526
+initial stack is 467
+stack is 100467
+initial stack is 3007
+stack is 103007
+initial stack is 466
+stack is 100466
+initial stack is 3043
+stack is 103043
+initial stack is -3509
+stack is 96491
+initial stack is 3002
+stack is 103002
+initial stack is -3468
+stack is 96532
+initial stack is 466
+stack is 100466
+initial stack is -3464
+stack is 96536
+initial stack is 462
+stack is 100462
+initial stack is 3002
+stack is 103002
+initial stack is 460
+stack is 100460
+initial stack is 3004
+stack is 103004
+initial stack is -3464
+stack is 96536
+initial stack is 3203
+stack is 103203
+initial stack is -3663
+stack is 96337
+initial stack is 460
+stack is 100460
+initial stack is -3863
+stack is 96137
+initial stack is 458
+stack is 100458
+initial stack is 3405
+stack is 103405
+initial stack is 457
+stack is 100457
+initial stack is 3395
+stack is 103395
+initial stack is -3852
+stack is 96148
+initial stack is 3382
+stack is 103382
+initial stack is -3837
+stack is 96163
+initial stack is 455
+stack is 100455
+initial stack is -3858
+stack is 96142
+initial stack is 451
+stack is 100451
+initial stack is 3407
+stack is 103407
+initial stack is 449
+stack is 100449
+initial stack is 3409
+stack is 103409
+initial stack is -3858
+stack is 96142
+initial stack is 3408
+stack is 103408
+initial stack is -3857
+stack is 96143
+initial stack is 449
+stack is 100449
+initial stack is -3858
+stack is 96142
+initial stack is 447
+stack is 100447
+initial stack is 3411
+stack is 103411
+initial stack is 446
+stack is 100446
+initial stack is 3409
+stack is 103409
+initial stack is -3855
+stack is 96145
+initial stack is 3408
+stack is 103408
+initial stack is -3852
+stack is 96148
+initial stack is 444
+stack is 100444
+initial stack is -3853
+stack is 96147
+initial stack is 475
+stack is 100475
+initial stack is 3378
+stack is 103378
+initial stack is 474
+stack is 100474
+initial stack is 3379
+stack is 103379
+initial stack is -3853
+stack is 96147
+initial stack is 3378
+stack is 103378
+initial stack is -3852
+stack is 96148
+initial stack is 474
+stack is 100474
+initial stack is -3848
+stack is 96152
+initial stack is 470
+stack is 100470
+initial stack is 3378
+stack is 103378
+initial stack is 469
+stack is 100469
+initial stack is 3577
+stack is 103577
+initial stack is -4046
+stack is 95954
+initial stack is 3581
+stack is 103581
+initial stack is -4048
+stack is 95952
+initial stack is 467
+stack is 100467
+initial stack is -4046
+stack is 95954
+initial stack is 465
+stack is 100465
+initial stack is 3581
+stack is 103581
+initial stack is 464
+stack is 100464
+initial stack is 3720
+stack is 103720
+initial stack is -4184
+stack is 95816
+initial stack is 3719
+stack is 103719
+initial stack is -4202
+stack is 95798
+initial stack is 483
+stack is 100483
+initial stack is -4203
+stack is 95797
+initial stack is 481
+stack is 100481
+initial stack is 3722
+stack is 103722
+initial stack is 480
+stack is 100480
+initial stack is 3720
+stack is 103720
+initial stack is -4200
+stack is 95800
+initial stack is 3719
+stack is 103719
+initial stack is -4211
+stack is 95789
+initial stack is 492
+stack is 100492
+initial stack is -4278
+stack is 95722
+initial stack is 490
+stack is 100490
+initial stack is 3788
+stack is 103788
+initial stack is 491
+stack is 100491
+initial stack is 3786
+stack is 103786
+initial stack is -4277
+stack is 95723
+initial stack is 3801
+stack is 103801
+initial stack is -4279
+stack is 95721
+initial stack is 478
+stack is 100478
+initial stack is -4289
+stack is 95711
+initial stack is 488
+stack is 100488
+initial stack is 3801
+stack is 103801
+initial stack is 487
+stack is 100487
+initial stack is 4000
+stack is 104000
+initial stack is -4487
+stack is 95513
+initial stack is 4011
+stack is 104011
+initial stack is -4489
+stack is 95511
+initial stack is 478
+stack is 100478
+initial stack is -4485
+stack is 95515
+initial stack is 474
+stack is 100474
+initial stack is 4011
+stack is 104011
+initial stack is 473
+stack is 100473
+initial stack is 4012
+stack is 104012
+initial stack is -4485
+stack is 95515
+initial stack is 4014
+stack is 104014
+initial stack is -4487
+stack is 95513
+initial stack is 473
+stack is 100473
+initial stack is -4480
+stack is 95520
+initial stack is 466
+stack is 100466
+initial stack is 4014
+stack is 104014
+initial stack is 464
+stack is 100464
+initial stack is 4016
+stack is 104016
+initial stack is -4480
+stack is 95520
+initial stack is 4015
+stack is 104015
+initial stack is -4482
+stack is 95518
+initial stack is 467
+stack is 100467
+initial stack is -4478
+stack is 95522
+initial stack is 463
+stack is 100463
+initial stack is 4015
+stack is 104015
+initial stack is 462
+stack is 100462
+initial stack is 4016
+stack is 104016
+initial stack is -4478
+stack is 95522
+initial stack is 4018
+stack is 104018
+initial stack is -4480
+stack is 95520
+initial stack is 462
+stack is 100462
+initial stack is -4478
+stack is 95522
+initial stack is 460
+stack is 100460
+initial stack is 4018
+stack is 104018
+initial stack is 458
+stack is 100458
+initial stack is 4084
+stack is 104084
+initial stack is -4542
+stack is 95458
+initial stack is 4083
+stack is 104083
+initial stack is -4541
+stack is 95459
+initial stack is 458
+stack is 100458
+initial stack is -4539
+stack is 95461
+initial stack is 456
+stack is 100456
+initial stack is 4083
+stack is 104083
+initial stack is 488
+stack is 100488
+initial stack is 4067
+stack is 104067
+initial stack is -4555
+stack is 95445
+initial stack is 4066
+stack is 104066
+initial stack is -4563
+stack is 95437
+initial stack is 497
+stack is 100497
+initial stack is -4557
+stack is 95443
+initial stack is 493
+stack is 100493
+initial stack is 4064
+stack is 104064
+initial stack is 492
+stack is 100492
+initial stack is 4058
+stack is 104058
+initial stack is -4550
+stack is 95450
+initial stack is 4136
+stack is 104136
+initial stack is -4628
+stack is 95372
+initial stack is 492
+stack is 100492
+initial stack is -4629
+stack is 95371
+initial stack is 490
+stack is 100490
+initial stack is 4139
+stack is 104139
+initial stack is 492
+stack is 100492
+initial stack is 4137
+stack is 104137
+initial stack is -4629
+stack is 95371
+initial stack is 4148
+stack is 104148
+initial stack is -4631
+stack is 95369
+initial stack is 483
+stack is 100483
+initial stack is -4632
+stack is 95368
+initial stack is 481
+stack is 100481
+initial stack is 4151
+stack is 104151
+initial stack is 479
+stack is 100479
+initial stack is 4153
+stack is 104153
+initial stack is -4632
+stack is 95368
+initial stack is 4152
+stack is 104152
+initial stack is -4640
+stack is 95360
+initial stack is 488
+stack is 100488
+initial stack is -4644
+stack is 95356
+initial stack is 492
+stack is 100492
+initial stack is 4152
+stack is 104152
+initial stack is 490
+stack is 100490
+initial stack is 4154
+stack is 104154
+initial stack is -4644
+stack is 95356
+initial stack is 4353
+stack is 104353
+initial stack is -4843
+stack is 95157
+initial stack is 490
+stack is 100490
+initial stack is -4841
+stack is 95159
+initial stack is 488
+stack is 100488
+initial stack is 4353
+stack is 104353
+initial stack is 487
+stack is 100487
+initial stack is 4354
+stack is 104354
+initial stack is -4841
+stack is 95159
+initial stack is 4353
+stack is 104353
+initial stack is -4840
+stack is 95160
+initial stack is 487
+stack is 100487
+initial stack is -4874
+stack is 95126
+initial stack is 485
+stack is 100485
+initial stack is 4389
+stack is 104389
+initial stack is 484
+stack is 100484
+initial stack is 4191
+stack is 104191
+initial stack is -4675
+stack is 95325
+initial stack is 4190
+stack is 104190
+initial stack is -4668
+stack is 95332
+initial stack is 478
+stack is 100478
+initial stack is -4664
+stack is 95336
+initial stack is 474
+stack is 100474
+initial stack is 4190
+stack is 104190
+initial stack is 469
+stack is 100469
+initial stack is 4195
+stack is 104195
+initial stack is -4664
+stack is 95336
+initial stack is 4205
+stack is 104205
+initial stack is -4666
+stack is 95334
+initial stack is 461
+stack is 100461
+initial stack is -4664
+stack is 95336
+initial stack is 459
+stack is 100459
+initial stack is 4205
+stack is 104205
+initial stack is 458
+stack is 100458
+initial stack is 4206
+stack is 104206
+initial stack is -4664
+stack is 95336
+initial stack is 4395
+stack is 104395
+initial stack is -4853
+stack is 95147
+initial stack is 458
+stack is 100458
+initial stack is -4854
+stack is 95146
+initial stack is 456
+stack is 100456
+initial stack is 4398
+stack is 104398
+initial stack is 455
+stack is 100455
+initial stack is 4446
+stack is 104446
+initial stack is -4901
+stack is 95099
+initial stack is 4647
+stack is 104647
+initial stack is -5100
+stack is 94900
+initial stack is 453
+stack is 100453
+initial stack is -5096
+stack is 94904
+initial stack is 451
+stack is 100451
+initial stack is 4645
+stack is 104645
+initial stack is 649
+stack is 100649
+initial stack is 4447
+stack is 104447
+initial stack is -5096
+stack is 94904
+initial stack is 4248
+stack is 104248
+initial stack is -4897
+stack is 95103
+initial stack is 649
+stack is 100649
+initial stack is -4695
+stack is 95305
+initial stack is 647
+stack is 100647
+initial stack is 4048
+stack is 104048
+initial stack is 645
+stack is 100645
+initial stack is 4050
+stack is 104050
+initial stack is -4695
+stack is 95305
+initial stack is 4049
+stack is 104049
+initial stack is -4692
+stack is 95308
+initial stack is 643
+stack is 100643
+initial stack is -4690
+stack is 95310
+initial stack is 641
+stack is 100641
+initial stack is 4049
+stack is 104049
+initial stack is 639
+stack is 100639
+initial stack is 4051
+stack is 104051
+initial stack is -4690
+stack is 95310
+initial stack is 4050
+stack is 104050
+initial stack is -4692
+stack is 95308
+initial stack is 642
+stack is 100642
+initial stack is -4693
+stack is 95307
+initial stack is 640
+stack is 100640
+initial stack is 4053
+stack is 104053
+initial stack is 638
+stack is 100638
+initial stack is 4055
+stack is 104055
+initial stack is -4693
+stack is 95307
+initial stack is 4054
+stack is 104054
+initial stack is -4695
+stack is 95305
+initial stack is 641
+stack is 100641
+initial stack is -4697
+stack is 95303
+initial stack is 643
+stack is 100643
+initial stack is 4054
+stack is 104054
+initial stack is 642
+stack is 100642
+initial stack is 3856
+stack is 103856
+initial stack is -4498
+stack is 95502
+initial stack is 3815
+stack is 103815
+initial stack is -4457
+stack is 95543
+initial stack is 642
+stack is 100642
+initial stack is -4458
+stack is 95542
+initial stack is 661
+stack is 100661
+initial stack is 3797
+stack is 103797
+initial stack is 659
+stack is 100659
+initial stack is 3799
+stack is 103799
+initial stack is -4458
+stack is 95542
+initial stack is 3798
+stack is 103798
+initial stack is -4457
+stack is 95543
+initial stack is 659
+stack is 100659
+initial stack is -4459
+stack is 95541
+initial stack is 661
+stack is 100661
+initial stack is 3798
+stack is 103798
+initial stack is 656
+stack is 100656
+initial stack is 3793
+stack is 103793
+initial stack is -4449
+stack is 95551
+initial stack is 3795
+stack is 103795
+initial stack is -4451
+stack is 95549
+initial stack is 656
+stack is 100656
+initial stack is -4449
+stack is 95551
+initial stack is 654
+stack is 100654
+initial stack is 3795
+stack is 103795
+initial stack is 642
+stack is 100642
+initial stack is 3807
+stack is 103807
+initial stack is -4449
+stack is 95551
+initial stack is 3806
+stack is 103806
+initial stack is -4451
+stack is 95549
+initial stack is 645
+stack is 100645
+initial stack is -4458
+stack is 95542
+initial stack is 652
+stack is 100652
+initial stack is 3806
+stack is 103806
+initial stack is 651
+stack is 100651
+initial stack is 3787
+stack is 103787
+initial stack is -4438
+stack is 95562
+initial stack is 3797
+stack is 103797
+initial stack is -4440
+stack is 95560
+initial stack is 643
+stack is 100643
+initial stack is -4438
+stack is 95562
+initial stack is 641
+stack is 100641
+initial stack is 3797
+stack is 103797
+initial stack is 639
+stack is 100639
+initial stack is 3599
+stack is 103599
+initial stack is -4238
+stack is 95762
+initial stack is 3598
+stack is 103598
+initial stack is -4237
+stack is 95763
+initial stack is 639
+stack is 100639
+initial stack is -4238
+stack is 95762
+initial stack is 650
+stack is 100650
+initial stack is 3588
+stack is 103588
+initial stack is 649
+stack is 100649
+initial stack is 3589
+stack is 103589
+initial stack is -4238
+stack is 95762
+initial stack is 3588
+stack is 103588
+initial stack is -4240
+stack is 95760
+initial stack is 652
+stack is 100652
+initial stack is -4242
+stack is 95758
+initial stack is 654
+stack is 100654
+initial stack is 3588
+stack is 103588
+initial stack is 647
+stack is 100647
+initial stack is 3595
+stack is 103595
+initial stack is -4242
+stack is 95758
+initial stack is 3490
+stack is 103490
+initial stack is -4135
+stack is 95865
+initial stack is 645
+stack is 100645
+initial stack is -3933
+stack is 96067
+initial stack is 643
+stack is 100643
+initial stack is 3290
+stack is 103290
+initial stack is 651
+stack is 100651
+initial stack is 3282
+stack is 103282
+initial stack is -3933
+stack is 96067
+initial stack is 3481
+stack is 103481
+initial stack is -4132
+stack is 95868
+initial stack is 651
+stack is 100651
+initial stack is -4139
+stack is 95861
+initial stack is 660
+stack is 100660
+initial stack is 3479
+stack is 103479
+initial stack is 659
+stack is 100659
+initial stack is 3281
+stack is 103281
+initial stack is -3940
+stack is 96060
+initial stack is 3283
+stack is 103283
+initial stack is -3942
+stack is 96058
+initial stack is 659
+stack is 100659
+initial stack is -4010
+stack is 95990
+initial stack is 765
+stack is 100765
+initial stack is 3245
+stack is 103245
+initial stack is 763
+stack is 100763
+initial stack is 3247
+stack is 103247
+initial stack is -4010
+stack is 95990
+initial stack is 3246
+stack is 103246
+initial stack is -4009
+stack is 95991
+initial stack is 763
+stack is 100763
+initial stack is -4007
+stack is 95993
+initial stack is 761
+stack is 100761
+initial stack is 3246
+stack is 103246
+initial stack is 760
+stack is 100760
+initial stack is 3314
+stack is 103314
+initial stack is -4074
+stack is 95926
+initial stack is 3319
+stack is 103319
+initial stack is -4069
+stack is 95931
+initial stack is 750
+stack is 100750
+initial stack is -4067
+stack is 95933
+initial stack is 748
+stack is 100748
+initial stack is 3319
+stack is 103319
+initial stack is 747
+stack is 100747
+initial stack is 3285
+stack is 103285
+initial stack is -4032
+stack is 95968
+initial stack is 3284
+stack is 103284
+initial stack is -4036
+stack is 95964
+initial stack is 752
+stack is 100752
+initial stack is -4132
+stack is 95868
+initial stack is 944
+stack is 100944
+initial stack is 3188
+stack is 103188
+initial stack is 943
+stack is 100943
+initial stack is 3188
+stack is 103188
+initial stack is -4131
+stack is 95869
+initial stack is 3190
+stack is 103190
+initial stack is -4133
+stack is 95867
+initial stack is 943
+stack is 100943
+initial stack is -4137
+stack is 95863
+initial stack is 947
+stack is 100947
+initial stack is 3190
+stack is 103190
+initial stack is 946
+stack is 100946
+initial stack is 3225
+stack is 103225
+initial stack is -4171
+stack is 95829
+initial stack is 3227
+stack is 103227
+initial stack is -4173
+stack is 95827
+initial stack is 946
+stack is 100946
+initial stack is -4174
+stack is 95826
+initial stack is 935
+stack is 100935
+initial stack is 3239
+stack is 103239
+initial stack is 934
+stack is 100934
+initial stack is 3041
+stack is 103041
+initial stack is -3975
+stack is 96025
+initial stack is 3104
+stack is 103104
+initial stack is -4038
+stack is 95962
+initial stack is 934
+stack is 100934
+initial stack is -4034
+stack is 95966
+initial stack is 930
+stack is 100930
+initial stack is 3104
+stack is 103104
+initial stack is 929
+stack is 100929
+initial stack is 3105
+stack is 103105
+initial stack is -4034
+stack is 95966
+initial stack is 3134
+stack is 103134
+initial stack is -4036
+stack is 95964
+initial stack is 902
+stack is 100902
+initial stack is -4043
+stack is 95957
+initial stack is 909
+stack is 100909
+initial stack is 3134
+stack is 103134
+initial stack is 908
+stack is 100908
+initial stack is 3135
+stack is 103135
+initial stack is -4043
+stack is 95957
+initial stack is 3134
+stack is 103134
+initial stack is -4045
+stack is 95955
+initial stack is 911
+stack is 100911
+initial stack is -4046
+stack is 95954
+initial stack is 907
+stack is 100907
+initial stack is 3139
+stack is 103139
+initial stack is 906
+stack is 100906
+initial stack is 3140
+stack is 103140
+initial stack is -4046
+stack is 95954
+initial stack is 3139
+stack is 103139
+initial stack is -4043
+stack is 95957
+initial stack is 904
+stack is 100904
+initial stack is -4047
+stack is 95953
+initial stack is 908
+stack is 100908
+initial stack is 3139
+stack is 103139
+initial stack is 907
+stack is 100907
+initial stack is 3137
+stack is 103137
+initial stack is -4044
+stack is 95956
+initial stack is 3202
+stack is 103202
+initial stack is -4109
+stack is 95891
+initial stack is 907
+stack is 100907
+initial stack is -4111
+stack is 95889
+initial stack is 909
+stack is 100909
+initial stack is 3202
+stack is 103202
+initial stack is 907
+stack is 100907
+initial stack is 3200
+stack is 103200
+initial stack is -4107
+stack is 95893
+initial stack is 3231
+stack is 103231
+initial stack is -4138
+stack is 95862
+initial stack is 907
+stack is 100907
+initial stack is -4139
+stack is 95861
+initial stack is 905
+stack is 100905
+initial stack is 3234
+stack is 103234
+initial stack is 904
+stack is 100904
+initial stack is 3433
+stack is 103433
+initial stack is -4337
+stack is 95663
+initial stack is 3365
+stack is 103365
+initial stack is -4269
+stack is 95731
+initial stack is 904
+stack is 100904
+initial stack is -4270
+stack is 95730
+initial stack is 902
+stack is 100902
+initial stack is 3368
+stack is 103368
+initial stack is 901
+stack is 100901
+initial stack is 3369
+stack is 103369
+initial stack is -4270
+stack is 95730
+initial stack is 3368
+stack is 103368
+initial stack is -4283
+stack is 95717
+initial stack is 915
+stack is 100915
+initial stack is -4284
+stack is 95716
+initial stack is 913
+stack is 100913
+initial stack is 3371
+stack is 103371
+initial stack is 917
+stack is 100917
+initial stack is 3362
+stack is 103362
+initial stack is -4279
+stack is 95721
+initial stack is 3361
+stack is 103361
+initial stack is -4281
+stack is 95719
+initial stack is 920
+stack is 100920
+initial stack is -4282
+stack is 95718
+initial stack is 904
+stack is 100904
+initial stack is 3378
+stack is 103378
+initial stack is 903
+stack is 100903
+initial stack is 3457
+stack is 103457
+initial stack is -4360
+stack is 95640
+initial stack is 3456
+stack is 103456
+initial stack is -4346
+stack is 95654
+initial stack is 890
+stack is 100890
+initial stack is -4346
+stack is 95654
+initial stack is 890
+stack is 100890
+initial stack is 3456
+stack is 103456
+initial stack is 889
+stack is 100889
+initial stack is 3457
+stack is 103457
+initial stack is -4346
+stack is 95654
+initial stack is 3461
+stack is 103461
+initial stack is -4348
+stack is 95652
+initial stack is 887
+stack is 100887
+initial stack is -4346
+stack is 95654
+initial stack is 885
+stack is 100885
+initial stack is 3461
+stack is 103461
+initial stack is 884
+stack is 100884
+initial stack is 3462
+stack is 103462
+initial stack is -4346
+stack is 95654
+initial stack is 3369
+stack is 103369
+initial stack is -4249
+stack is 95751
+initial stack is 880
+stack is 100880
+initial stack is -4255
+stack is 95745
+initial stack is 886
+stack is 100886
+initial stack is 3369
+stack is 103369
+initial stack is 885
+stack is 100885
+initial stack is 3370
+stack is 103370
+initial stack is -4255
+stack is 95745
+initial stack is 3369
+stack is 103369
+initial stack is -4254
+stack is 95746
+initial stack is 885
+stack is 100885
+initial stack is -4454
+stack is 95546
+initial stack is 1085
+stack is 101085
+initial stack is 3369
+stack is 103369
+initial stack is 1084
+stack is 101084
+initial stack is 3417
+stack is 103417
+initial stack is -4501
+stack is 95499
+initial stack is 3416
+stack is 103416
+initial stack is -4506
+stack is 95494
+initial stack is 1090
+stack is 101090
+initial stack is -4507
+stack is 95493
+initial stack is 1084
+stack is 101084
+initial stack is 3423
+stack is 103423
+initial stack is 1083
+stack is 101083
+initial stack is 3424
+stack is 103424
+initial stack is -4507
+stack is 95493
+initial stack is 3409
+stack is 103409
+initial stack is -4492
+stack is 95508
+initial stack is 1083
+stack is 101083
+initial stack is -4494
+stack is 95506
+initial stack is 1085
+stack is 101085
+initial stack is 3409
+stack is 103409
+initial stack is 1084
+stack is 101084
+initial stack is 3410
+stack is 103410
+initial stack is -4494
+stack is 95506
+initial stack is 3409
+stack is 103409
+initial stack is -4493
+stack is 95507
+initial stack is 1084
+stack is 101084
+initial stack is -4494
+stack is 95506
+initial stack is 1082
+stack is 101082
+initial stack is 3412
+stack is 103412
+initial stack is 1081
+stack is 101081
+initial stack is 3413
+stack is 103413
+initial stack is -4494
+stack is 95506
+initial stack is 3563
+stack is 103563
+initial stack is -4644
+stack is 95356
+initial stack is 1081
+stack is 101081
+initial stack is -4642
+stack is 95358
+initial stack is 1079
+stack is 101079
+initial stack is 3563
+stack is 103563
+initial stack is 1077
+stack is 101077
+initial stack is 3681
+stack is 103681
+initial stack is -4758
+stack is 95242
+initial stack is 3680
+stack is 103680
+initial stack is -4766
+stack is 95234
+initial stack is 1086
+stack is 101086
+initial stack is -4768
+stack is 95232
+initial stack is 1088
+stack is 101088
+initial stack is 3680
+stack is 103680
+initial stack is 1084
+stack is 101084
+initial stack is 3690
+stack is 103690
+initial stack is -4774
+stack is 95226
+initial stack is 3627
+stack is 103627
+initial stack is -4707
+stack is 95293
+initial stack is 1080
+stack is 101080
+initial stack is -4705
+stack is 95295
+initial stack is 1078
+stack is 101078
+initial stack is 3627
+stack is 103627
+initial stack is 1076
+stack is 101076
+initial stack is 3629
+stack is 103629
+initial stack is -4705
+stack is 95295
+initial stack is 3628
+stack is 103628
+initial stack is -4707
+stack is 95293
+initial stack is 1079
+stack is 101079
+initial stack is -4711
+stack is 95289
+initial stack is 1083
+stack is 101083
+initial stack is 3628
+stack is 103628
+initial stack is 1081
+stack is 101081
+initial stack is 3630
+stack is 103630
+initial stack is -4711
+stack is 95289
+initial stack is 3629
+stack is 103629
+initial stack is -4723
+stack is 95277
+initial stack is 1094
+stack is 101094
+initial stack is -4723
+stack is 95277
+initial stack is 1094
+stack is 101094
+initial stack is 3629
+stack is 103629
+initial stack is 1092
+stack is 101092
+initial stack is 3631
+stack is 103631
+initial stack is -4723
+stack is 95277
+initial stack is 3664
+stack is 103664
+initial stack is -4725
+stack is 95275
+initial stack is 1061
+stack is 101061
+initial stack is -4723
+stack is 95277
+initial stack is 1059
+stack is 101059
+initial stack is 3664
+stack is 103664
+initial stack is 1070
+stack is 101070
+initial stack is 3662
+stack is 103662
+initial stack is -4732
+stack is 95268
+initial stack is 3661
+stack is 103661
+initial stack is -4732
+stack is 95268
+initial stack is 1071
+stack is 101071
+initial stack is -4931
+stack is 95069
+initial stack is 872
+stack is 100872
+initial stack is 4059
+stack is 104059
+initial stack is 871
+stack is 100871
+initial stack is 4060
+stack is 104060
+initial stack is -4931
+stack is 95069
+initial stack is 4059
+stack is 104059
+initial stack is -4926
+stack is 95074
+initial stack is 867
+stack is 100867
+initial stack is -4909
+stack is 95091
+initial stack is 850
+stack is 100850
+initial stack is 4059
+stack is 104059
+initial stack is 848
+stack is 100848
+initial stack is 4261
+stack is 104261
+initial stack is -5109
+stack is 94891
+initial stack is 4260
+stack is 104260
+initial stack is -5111
+stack is 94889
+initial stack is 851
+stack is 100851
+initial stack is -5115
+stack is 94885
+initial stack is 855
+stack is 100855
+initial stack is 4260
+stack is 104260
+initial stack is 854
+stack is 100854
+initial stack is 4261
+stack is 104261
+initial stack is -5115
+stack is 94885
+initial stack is 4260
+stack is 104260
+initial stack is -5128
+stack is 94872
+initial stack is 868
+stack is 100868
+initial stack is -5135
+stack is 94865
+initial stack is 875
+stack is 100875
+initial stack is 4260
+stack is 104260
+initial stack is 873
+stack is 100873
+initial stack is 4239
+stack is 104239
+initial stack is -5112
+stack is 94888
+initial stack is 4351
+stack is 104351
+initial stack is -5224
+stack is 94776
+initial stack is 873
+stack is 100873
+initial stack is -5220
+stack is 94780
+initial stack is 869
+stack is 100869
+initial stack is 4351
+stack is 104351
+initial stack is 868
+stack is 100868
+initial stack is 4352
+stack is 104352
+initial stack is -5220
+stack is 94780
+initial stack is 4351
+stack is 104351
+initial stack is -5227
+stack is 94773
+initial stack is 876
+stack is 100876
+initial stack is -5225
+stack is 94775
+initial stack is 874
+stack is 100874
+initial stack is 4351
+stack is 104351
+initial stack is 873
+stack is 100873
+initial stack is 4153
+stack is 104153
+initial stack is -5026
+stack is 94974
+initial stack is 4152
+stack is 104152
+initial stack is -5023
+stack is 94977
+initial stack is 871
+stack is 100871
+initial stack is -5021
+stack is 94979
+initial stack is 869
+stack is 100869
+initial stack is 4152
+stack is 104152
+initial stack is 867
+stack is 100867
+initial stack is 4154
+stack is 104154
+initial stack is -5021
+stack is 94979
+initial stack is 4156
+stack is 104156
+initial stack is -5023
+stack is 94977
+initial stack is 867
+stack is 100867
+initial stack is -5124
+stack is 94876
+initial stack is 865
+stack is 100865
+initial stack is 4259
+stack is 104259
+initial stack is 864
+stack is 100864
+initial stack is 4458
+stack is 104458
+initial stack is -5322
+stack is 94678
+initial stack is 4457
+stack is 104457
+initial stack is -5321
+stack is 94679
+initial stack is 864
+stack is 100864
+initial stack is -5516
+stack is 94484
+initial stack is 822
+stack is 100822
+initial stack is 4694
+stack is 104694
+initial stack is 820
+stack is 100820
+initial stack is 4590
+stack is 104590
+initial stack is -5410
+stack is 94590
+initial stack is 4592
+stack is 104592
+initial stack is -5412
+stack is 94588
+initial stack is 820
+stack is 100820
+initial stack is -5414
+stack is 94586
+initial stack is 822
+stack is 100822
+initial stack is 4592
+stack is 104592
+initial stack is 821
+stack is 100821
+initial stack is 4593
+stack is 104593
+initial stack is -5414
+stack is 94586
+initial stack is 4474
+stack is 104474
+initial stack is -5293
+stack is 94707
+initial stack is 819
+stack is 100819
+initial stack is -5291
+stack is 94709
+initial stack is 817
+stack is 100817
+initial stack is 4474
+stack is 104474
+initial stack is 816
+stack is 100816
+initial stack is 4673
+stack is 104673
+initial stack is -5489
+stack is 94511
+initial stack is 4675
+stack is 104675
+initial stack is -5491
+stack is 94509
+initial stack is 816
+stack is 100816
+initial stack is -5487
+stack is 94513
+initial stack is 814
+stack is 100814
+initial stack is 4673
+stack is 104673
+initial stack is 813
+stack is 100813
+initial stack is 4671
+stack is 104671
+initial stack is -5484
+stack is 94516
+initial stack is 4528
+stack is 104528
+initial stack is -5341
+stack is 94659
+initial stack is 813
+stack is 100813
+initial stack is -5541
+stack is 94459
+initial stack is 811
+stack is 100811
+initial stack is 4730
+stack is 104730
+initial stack is 827
+stack is 100827
+initial stack is 4722
+stack is 104722
+initial stack is -5549
+stack is 94451
+initial stack is 4721
+stack is 104721
+initial stack is -5546
+stack is 94454
+initial stack is 825
+stack is 100825
+initial stack is -5556
+stack is 94444
+initial stack is 835
+stack is 100835
+initial stack is 4721
+stack is 104721
+initial stack is 1075
+stack is 101075
+initial stack is 4681
+stack is 104681
+initial stack is -5756
+stack is 94244
+initial stack is 4668
+stack is 104668
+initial stack is -5769
+stack is 94231
+initial stack is 1101
+stack is 101101
+initial stack is -5969
+stack is 94031
+initial stack is 1099
+stack is 101099
+initial stack is 4870
+stack is 104870
+initial stack is 1087
+stack is 101087
+initial stack is 4882
+stack is 104882
+initial stack is -5969
+stack is 94031
+initial stack is 4881
+stack is 104881
+initial stack is -5971
+stack is 94029
+initial stack is 1090
+stack is 101090
+initial stack is -5969
+stack is 94031
+initial stack is 1088
+stack is 101088
+initial stack is 4881
+stack is 104881
+initial stack is 1087
+stack is 101087
+initial stack is 4882
+stack is 104882
+initial stack is -5969
+stack is 94031
+initial stack is 4683
+stack is 104683
+initial stack is -5768
+stack is 94232
+initial stack is 1085
+stack is 101085
+initial stack is -5766
+stack is 94234
+initial stack is 1083
+stack is 101083
+initial stack is 4683
+stack is 104683
+initial stack is 1079
+stack is 101079
+initial stack is 4681
+stack is 104681
+initial stack is -5760
+stack is 94240
+initial stack is 4542
+stack is 104542
+initial stack is -5621
+stack is 94379
+initial stack is 1079
+stack is 101079
+initial stack is -5623
+stack is 94377
+initial stack is 1083
+stack is 101083
+initial stack is 4540
+stack is 104540
+initial stack is 1082
+stack is 101082
+initial stack is 4541
+stack is 104541
+initial stack is -5623
+stack is 94377
+initial stack is 4540
+stack is 104540
+initial stack is -5627
+stack is 94373
+initial stack is 1087
+stack is 101087
+initial stack is -5631
+stack is 94369
+initial stack is 1091
+stack is 101091
+initial stack is 4540
+stack is 104540
+initial stack is 1090
+stack is 101090
+initial stack is 4687
+stack is 104687
+initial stack is -5777
+stack is 94223
+initial stack is 4686
+stack is 104686
+initial stack is -5779
+stack is 94221
+initial stack is 1093
+stack is 101093
+initial stack is -5781
+stack is 94219
+initial stack is 1095
+stack is 101095
+initial stack is 4686
+stack is 104686
+initial stack is 1094
+stack is 101094
+initial stack is 4667
+stack is 104667
+initial stack is -5761
+stack is 94239
+initial stack is 4666
+stack is 104666
+initial stack is -5763
+stack is 94237
+initial stack is 1097
+stack is 101097
+initial stack is -5759
+stack is 94241
+initial stack is 1093
+stack is 101093
+initial stack is 4666
+stack is 104666
+initial stack is 1105
+stack is 101105
+initial stack is 4654
+stack is 104654
+initial stack is -5759
+stack is 94241
+initial stack is 4757
+stack is 104757
+initial stack is -5862
+stack is 94138
+initial stack is 1105
+stack is 101105
+initial stack is -5860
+stack is 94140
+initial stack is 1103
+stack is 101103
+initial stack is 4757
+stack is 104757
+initial stack is 1102
+stack is 101102
+initial stack is 4849
+stack is 104849
+initial stack is -5951
+stack is 94049
+initial stack is 4867
+stack is 104867
+initial stack is -5969
+stack is 94031
+initial stack is 1102
+stack is 101102
+initial stack is -5980
+stack is 94020
+initial stack is 1113
+stack is 101113
+initial stack is 4867
+stack is 104867
+initial stack is 1109
+stack is 101109
+initial stack is 4871
+stack is 104871
+initial stack is -5980
+stack is 94020
+initial stack is 4875
+stack is 104875
+initial stack is -5982
+stack is 94018
+initial stack is 1107
+stack is 101107
+initial stack is -5983
+stack is 94017
+initial stack is 1105
+stack is 101105
+initial stack is 4878
+stack is 104878
+initial stack is 1104
+stack is 101104
+initial stack is 4854
+stack is 104854
+initial stack is -5958
+stack is 94042
+initial stack is 4853
+stack is 104853
+initial stack is -5957
+stack is 94043
+initial stack is 1104
+stack is 101104
+initial stack is -5958
+stack is 94042
+initial stack is 1102
+stack is 101102
+initial stack is 4856
+stack is 104856
+initial stack is 1101
+stack is 101101
+initial stack is 4854
+stack is 104854
+initial stack is -5955
+stack is 94045
+initial stack is 4852
+stack is 104852
+initial stack is -5957
+stack is 94043
+initial stack is 1105
+stack is 101105
+initial stack is -5955
+stack is 94045
+initial stack is 1103
+stack is 101103
+initial stack is 4852
+stack is 104852
+initial stack is 1102
+stack is 101102
+initial stack is 4853
+stack is 104853
+initial stack is -5955
+stack is 94045
+initial stack is 4852
+stack is 104852
+initial stack is -5957
+stack is 94043
+initial stack is 1105
+stack is 101105
+initial stack is -6157
+stack is 93843
+initial stack is 1305
+stack is 101305
+initial stack is 4852
+stack is 104852
+initial stack is 1304
+stack is 101304
+initial stack is 4731
+stack is 104731
+initial stack is -6035
+stack is 93965
+initial stack is 4680
+stack is 104680
+initial stack is -5976
+stack is 94024
+initial stack is 1296
+stack is 101296
+initial stack is -5977
+stack is 94023
+initial stack is 1294
+stack is 101294
+initial stack is 4683
+stack is 104683
+initial stack is 1292
+stack is 101292
+initial stack is 4755
+stack is 104755
+initial stack is -6047
+stack is 93953
+initial stack is 4754
+stack is 104754
+initial stack is -6049
+stack is 93951
+initial stack is 1295
+stack is 101295
+initial stack is -6059
+stack is 93941
+initial stack is 1305
+stack is 101305
+initial stack is 4754
+stack is 104754
+initial stack is 1300
+stack is 101300
+initial stack is 4759
+stack is 104759
+initial stack is -6059
+stack is 93941
+initial stack is 4758
+stack is 104758
+initial stack is -6058
+stack is 93942
+initial stack is 1300
+stack is 101300
+initial stack is -6060
+stack is 93940
+initial stack is 1302
+stack is 101302
+initial stack is 4758
+stack is 104758
+initial stack is 1311
+stack is 101311
+initial stack is 4756
+stack is 104756
+initial stack is -6067
+stack is 93933
+initial stack is 4755
+stack is 104755
+initial stack is -6079
+stack is 93921
+initial stack is 1324
+stack is 101324
+initial stack is -6123
+stack is 93877
+initial stack is 1383
+stack is 101383
+initial stack is 4740
+stack is 104740
+initial stack is 1382
+stack is 101382
+initial stack is 4740
+stack is 104740
+initial stack is -6122
+stack is 93878
+initial stack is 5034
+stack is 105034
+initial stack is -6269
+stack is 93731
+initial stack is 1235
+stack is 101235
+initial stack is -6258
+stack is 93742
+initial stack is 1224
+stack is 101224
+initial stack is 5034
+stack is 105034
+initial stack is 1223
+stack is 101223
+initial stack is 5035
+stack is 105035
+initial stack is -6258
+stack is 93742
+initial stack is 5034
+stack is 105034
+initial stack is -6458
+stack is 93542
+initial stack is 1424
+stack is 101424
+initial stack is -6459
+stack is 93541
+initial stack is 1420
+stack is 101420
+initial stack is 5039
+stack is 105039
+initial stack is 1419
+stack is 101419
+initial stack is 5040
+stack is 105040
+initial stack is -6459
+stack is 93541
+initial stack is 5042
+stack is 105042
+initial stack is -6461
+stack is 93539
+initial stack is 1419
+stack is 101419
+initial stack is -6259
+stack is 93741
+initial stack is 1417
+stack is 101417
+initial stack is 4842
+stack is 104842
+initial stack is 1412
+stack is 101412
+initial stack is 4847
+stack is 104847
+initial stack is -6259
+stack is 93741
+initial stack is 4846
+stack is 104846
+initial stack is -6273
+stack is 93727
+initial stack is 1427
+stack is 101427
+initial stack is -6473
+stack is 93527
+initial stack is 1627
+stack is 101627
+initial stack is 4846
+stack is 104846
+initial stack is 1625
+stack is 101625
+initial stack is 4848
+stack is 104848
+initial stack is -6473
+stack is 93527
+initial stack is 4850
+stack is 104850
+initial stack is -6475
+stack is 93525
+initial stack is 1625
+stack is 101625
+initial stack is -6482
+stack is 93518
+initial stack is 1632
+stack is 101632
+initial stack is 4850
+stack is 104850
+initial stack is 1631
+stack is 101631
+initial stack is 4851
+stack is 104851
+initial stack is -6482
+stack is 93518
+initial stack is 4853
+stack is 104853
+initial stack is -6484
+stack is 93516
+initial stack is 1631
+stack is 101631
+initial stack is -6482
+stack is 93518
+initial stack is 1629
+stack is 101629
+initial stack is 4853
+stack is 104853
+initial stack is 1627
+stack is 101627
+initial stack is 4874
+stack is 104874
+initial stack is -6501
+stack is 93499
+initial stack is 4876
+stack is 104876
+initial stack is -6503
+stack is 93497
+initial stack is 1627
+stack is 101627
+initial stack is -6505
+stack is 93495
+initial stack is 1625
+stack is 101625
+initial stack is 4880
+stack is 104880
+initial stack is 1624
+stack is 101624
+initial stack is 4881
+stack is 104881
+initial stack is -6505
+stack is 93495
+initial stack is 4880
+stack is 104880
+initial stack is -6504
+stack is 93496
+initial stack is 1624
+stack is 101624
+initial stack is -6392
+stack is 93608
+initial stack is 1622
+stack is 101622
+initial stack is 4770
+stack is 104770
+initial stack is 1617
+stack is 101617
+initial stack is 4810
+stack is 104810
+initial stack is -6427
+stack is 93573
+initial stack is 4809
+stack is 104809
+initial stack is -6426
+stack is 93574
+initial stack is 1617
+stack is 101617
+initial stack is -6427
+stack is 93573
+initial stack is 1615
+stack is 101615
+initial stack is 4812
+stack is 104812
+initial stack is 1614
+stack is 101614
+initial stack is 4813
+stack is 104813
+initial stack is -6427
+stack is 93573
+initial stack is 5012
+stack is 105012
+initial stack is -6626
+stack is 93374
+initial stack is 1614
+stack is 101614
+initial stack is -6636
+stack is 93364
+initial stack is 1624
+stack is 101624
+initial stack is 5012
+stack is 105012
+initial stack is 1623
+stack is 101623
+initial stack is 5013
+stack is 105013
+initial stack is -6636
+stack is 93364
+initial stack is 5012
+stack is 105012
+initial stack is -6636
+stack is 93364
+initial stack is 1624
+stack is 101624
+initial stack is -6640
+stack is 93360
+initial stack is 1628
+stack is 101628
+initial stack is 5012
+stack is 105012
+initial stack is 1626
+stack is 101626
+initial stack is 5014
+stack is 105014
+initial stack is -6640
+stack is 93360
+initial stack is 5013
+stack is 105013
+initial stack is -6637
+stack is 93363
+initial stack is 1624
+stack is 101624
+initial stack is -6672
+stack is 93328
+initial stack is 1619
+stack is 101619
+initial stack is 5053
+stack is 105053
+initial stack is 1618
+stack is 101618
+initial stack is 5045
+stack is 105045
+initial stack is -6663
+stack is 93337
+initial stack is 5049
+stack is 105049
+initial stack is -6665
+stack is 93335
+initial stack is 1616
+stack is 101616
+initial stack is -6666
+stack is 93334
+initial stack is 1614
+stack is 101614
+initial stack is 5052
+stack is 105052
+initial stack is 1613
+stack is 101613
+initial stack is 5053
+stack is 105053
+initial stack is -6666
+stack is 93334
+initial stack is 5052
+stack is 105052
+initial stack is -6668
+stack is 93332
+initial stack is 1616
+stack is 101616
+initial stack is -6666
+stack is 93334
+initial stack is 1614
+stack is 101614
+initial stack is 5052
+stack is 105052
+initial stack is 1612
+stack is 101612
+initial stack is 5054
+stack is 105054
+initial stack is -6666
+stack is 93334
+initial stack is 5056
+stack is 105056
+initial stack is -6668
+stack is 93332
+initial stack is 1612
+stack is 101612
+initial stack is -6708
+stack is 93292
+initial stack is 1652
+stack is 101652
+initial stack is 5056
+stack is 105056
+initial stack is 1650
+stack is 101650
+initial stack is 5058
+stack is 105058
+initial stack is -6708
+stack is 93292
+initial stack is 5060
+stack is 105060
+initial stack is -6710
+stack is 93290
+initial stack is 1650
+stack is 101650
+initial stack is -6712
+stack is 93288
+initial stack is 1652
+stack is 101652
+initial stack is 5060
+stack is 105060
+initial stack is 1651
+stack is 101651
+initial stack is 4862
+stack is 104862
+initial stack is -6513
+stack is 93487
+initial stack is 4866
+stack is 104866
+initial stack is -6515
+stack is 93485
+initial stack is 1649
+stack is 101649
+initial stack is -6511
+stack is 93489
+initial stack is 1645
+stack is 101645
+initial stack is 4866
+stack is 104866
+initial stack is 1644
+stack is 101644
+initial stack is 5065
+stack is 105065
+initial stack is -6709
+stack is 93291
+initial stack is 5064
+stack is 105064
+initial stack is -6708
+stack is 93292
+initial stack is 1644
+stack is 101644
+initial stack is -6706
+stack is 93294
+initial stack is 1642
+stack is 101642
+initial stack is 5064
+stack is 105064
+initial stack is 1649
+stack is 101649
+initial stack is 5057
+stack is 105057
+initial stack is -6706
+stack is 93294
+initial stack is 5055
+stack is 105055
+initial stack is -6704
+stack is 93296
+initial stack is 1649
+stack is 101649
+initial stack is -6708
+stack is 93292
+initial stack is 1653
+stack is 101653
+initial stack is 5055
+stack is 105055
+initial stack is 1652
+stack is 101652
+initial stack is 5254
+stack is 105254
+initial stack is -6906
+stack is 93094
+initial stack is 5256
+stack is 105256
+initial stack is -6908
+stack is 93092
+initial stack is 1652
+stack is 101652
+initial stack is -6896
+stack is 93104
+initial stack is 1640
+stack is 101640
+initial stack is 5256
+stack is 105256
+initial stack is 1665
+stack is 101665
+initial stack is 5246
+stack is 105246
+initial stack is -6911
+stack is 93089
+initial stack is 5252
+stack is 105252
+initial stack is -6913
+stack is 93087
+initial stack is 1661
+stack is 101661
+initial stack is -6911
+stack is 93089
+initial stack is 1659
+stack is 101659
+initial stack is 5252
+stack is 105252
+initial stack is 1657
+stack is 101657
+initial stack is 5454
+stack is 105454
+initial stack is -7111
+stack is 92889
+initial stack is 5458
+stack is 105458
+initial stack is -7113
+stack is 92887
+initial stack is 1655
+stack is 101655
+initial stack is -7114
+stack is 92886
+initial stack is 1650
+stack is 101650
+initial stack is 5464
+stack is 105464
+initial stack is 1648
+stack is 101648
+initial stack is 5501
+stack is 105501
+initial stack is -7149
+stack is 92851
+initial stack is 5500
+stack is 105500
+initial stack is -7159
+stack is 92841
+initial stack is 1659
+stack is 101659
+initial stack is -7163
+stack is 92837
+initial stack is 1663
+stack is 101663
+initial stack is 5500
+stack is 105500
+initial stack is 1662
+stack is 101662
+initial stack is 5699
+stack is 105699
+initial stack is -7361
+stack is 92639
+initial stack is 5698
+stack is 105698
+initial stack is -7363
+stack is 92637
+initial stack is 1665
+stack is 101665
+initial stack is -7364
+stack is 92636
+initial stack is 1465
+stack is 101465
+initial stack is 5899
+stack is 105899
+initial stack is 1463
+stack is 101463
+initial stack is 5901
+stack is 105901
+initial stack is -7364
+stack is 92636
+initial stack is 5900
+stack is 105900
+initial stack is -7361
+stack is 92639
+initial stack is 1461
+stack is 101461
+initial stack is -7453
+stack is 92547
+initial stack is 1645
+stack is 101645
+initial stack is 5808
+stack is 105808
+initial stack is 1644
+stack is 101644
+initial stack is 6007
+stack is 106007
+initial stack is -7651
+stack is 92349
+initial stack is 6006
+stack is 106006
+initial stack is -7646
+stack is 92354
+initial stack is 1640
+stack is 101640
+initial stack is -7650
+stack is 92350
+initial stack is 1644
+stack is 101644
+initial stack is 6006
+stack is 106006
+initial stack is 1643
+stack is 101643
+initial stack is 6007
+stack is 106007
+initial stack is -7650
+stack is 92350
+initial stack is 6006
+stack is 106006
+initial stack is -7649
+stack is 92351
+initial stack is 1643
+stack is 101643
+initial stack is -7653
+stack is 92347
+initial stack is 1647
+stack is 101647
+initial stack is 6006
+stack is 106006
+initial stack is 1646
+stack is 101646
+initial stack is 6009
+stack is 106009
+initial stack is -7655
+stack is 92345
+initial stack is 6007
+stack is 106007
+initial stack is -7657
+stack is 92343
+initial stack is 1650
+stack is 101650
+initial stack is -7658
+stack is 92342
+initial stack is 1646
+stack is 101646
+initial stack is 6012
+stack is 106012
+initial stack is 1642
+stack is 101642
+initial stack is 6016
+stack is 106016
+initial stack is -7658
+stack is 92342
+initial stack is 6015
+stack is 106015
+initial stack is -7657
+stack is 92343
+initial stack is 1642
+stack is 101642
+initial stack is -7664
+stack is 92336
+initial stack is 1656
+stack is 101656
+initial stack is 6008
+stack is 106008
+initial stack is 1655
+stack is 101655
+initial stack is 6207
+stack is 106207
+initial stack is -7862
+stack is 92138
+initial stack is 6206
+stack is 106206
+initial stack is -7861
+stack is 92139
+initial stack is 1655
+stack is 101655
+initial stack is -7859
+stack is 92141
+initial stack is 1653
+stack is 101653
+initial stack is 6206
+stack is 106206
+initial stack is 1631
+stack is 101631
+initial stack is 6228
+stack is 106228
+initial stack is -7859
+stack is 92141
+initial stack is 6232
+stack is 106232
+initial stack is -7861
+stack is 92139
+initial stack is 1629
+stack is 101629
+initial stack is -7853
+stack is 92147
+initial stack is 1625
+stack is 101625
+initial stack is 6228
+stack is 106228
+initial stack is 1623
+stack is 101623
+initial stack is 6262
+stack is 106262
+initial stack is -7885
+stack is 92115
+initial stack is 6465
+stack is 106465
+initial stack is -8084
+stack is 91916
+initial stack is 1619
+stack is 101619
+initial stack is -8082
+stack is 91918
+initial stack is 1617
+stack is 101617
+initial stack is 6465
+stack is 106465
+initial stack is 1616
+stack is 101616
+initial stack is 6664
+stack is 106664
+initial stack is -8280
+stack is 91720
+initial stack is 6608
+stack is 106608
+initial stack is -8222
+stack is 91778
+initial stack is 1614
+stack is 101614
+initial stack is -8350
+stack is 91650
+initial stack is 1610
+stack is 101610
+initial stack is 6740
+stack is 106740
+initial stack is 1608
+stack is 101608
+initial stack is 6940
+stack is 106940
+initial stack is -8548
+stack is 91452
+initial stack is 6978
+stack is 106978
+initial stack is -8586
+stack is 91414
+initial stack is 1608
+stack is 101608
+initial stack is -8587
+stack is 91413
+initial stack is 1606
+stack is 101606
+initial stack is 6981
+stack is 106981
+initial stack is 1605
+stack is 101605
+initial stack is 6783
+stack is 106783
+initial stack is -8388
+stack is 91612
+initial stack is 6841
+stack is 106841
+initial stack is -8442
+stack is 91558
+initial stack is 1601
+stack is 101601
+initial stack is -8446
+stack is 91554
+initial stack is 1605
+stack is 101605
+initial stack is 6841
+stack is 106841
+initial stack is 1605
+stack is 101605
+initial stack is 6841
+stack is 106841
+initial stack is -8446
+stack is 91554
+initial stack is 6934
+stack is 106934
+initial stack is -8537
+stack is 91463
+initial stack is 1603
+stack is 101603
+initial stack is -8737
+stack is 91263
+initial stack is 1601
+stack is 101601
+initial stack is 7136
+stack is 107136
+initial stack is 1600
+stack is 101600
+initial stack is 7137
+stack is 107137
+initial stack is -8737
+stack is 91263
+initial stack is 7141
+stack is 107141
+initial stack is -8739
+stack is 91261
+initial stack is 1598
+stack is 101598
+initial stack is -8339
+stack is 91661
+initial stack is 1398
+stack is 101398
+initial stack is 6941
+stack is 106941
+initial stack is 1397
+stack is 101397
+initial stack is 6942
+stack is 106942
+initial stack is -8339
+stack is 91661
+initial stack is 6941
+stack is 106941
+initial stack is -8338
+stack is 91662
+initial stack is 1397
+stack is 101397
+initial stack is -8336
+stack is 91664
+initial stack is 1395
+stack is 101395
+initial stack is 6941
+stack is 106941
+initial stack is 1413
+stack is 101413
+initial stack is 6923
+stack is 106923
+initial stack is -8336
+stack is 91664
+initial stack is 6922
+stack is 106922
+initial stack is -8338
+stack is 91662
+initial stack is 1416
+stack is 101416
+initial stack is -8339
+stack is 91661
+initial stack is 1414
+stack is 101414
+initial stack is 6925
+stack is 106925
+initial stack is 1413
+stack is 101413
+initial stack is 6774
+stack is 106774
+initial stack is -8187
+stack is 91813
+initial stack is 6773
+stack is 106773
+initial stack is -8175
+stack is 91825
+initial stack is 1402
+stack is 101402
+initial stack is -8177
+stack is 91823
+initial stack is 1404
+stack is 101404
+initial stack is 6773
+stack is 106773
+initial stack is 1397
+stack is 101397
+initial stack is 6780
+stack is 106780
+initial stack is -8177
+stack is 91823
+initial stack is 6779
+stack is 106779
+initial stack is -8170
+stack is 91830
+initial stack is 1391
+stack is 101391
+initial stack is -8168
+stack is 91832
+initial stack is 1389
+stack is 101389
+initial stack is 6779
+stack is 106779
+initial stack is 1388
+stack is 101388
+initial stack is 6978
+stack is 106978
+initial stack is -8366
+stack is 91634
+initial stack is 7021
+stack is 107021
+initial stack is -8409
+stack is 91591
+initial stack is 1388
+stack is 101388
+initial stack is -8407
+stack is 91593
+initial stack is 1386
+stack is 101386
+initial stack is 7021
+stack is 107021
+initial stack is 1385
+stack is 101385
+initial stack is 6971
+stack is 106971
+initial stack is -8356
+stack is 91644
+initial stack is 6970
+stack is 106970
+initial stack is -8358
+stack is 91642
+initial stack is 1388
+stack is 101388
+initial stack is -8358
+stack is 91642
+initial stack is 1388
+stack is 101388
+initial stack is 6970
+stack is 106970
+initial stack is 1387
+stack is 101387
+initial stack is 6971
+stack is 106971
+initial stack is -8358
+stack is 91642
+initial stack is 6975
+stack is 106975
+initial stack is -8360
+stack is 91640
+initial stack is 1385
+stack is 101385
+initial stack is -8358
+stack is 91642
+initial stack is 1383
+stack is 101383
+initial stack is 6975
+stack is 106975
+initial stack is 1382
+stack is 101382
+initial stack is 6976
+stack is 106976
+initial stack is -8358
+stack is 91642
+initial stack is 7177
+stack is 107177
+initial stack is -8557
+stack is 91443
+initial stack is 1380
+stack is 101380
+initial stack is -8555
+stack is 91445
+initial stack is 1378
+stack is 101378
+initial stack is 7177
+stack is 107177
+initial stack is 1377
+stack is 101377
+initial stack is 7178
+stack is 107178
+initial stack is -8555
+stack is 91445
+initial stack is 7153
+stack is 107153
+initial stack is -8557
+stack is 91443
+initial stack is 1404
+stack is 101404
+initial stack is -8558
+stack is 91442
+initial stack is 1402
+stack is 101402
+initial stack is 7156
+stack is 107156
+initial stack is 1404
+stack is 101404
+initial stack is 7154
+stack is 107154
+initial stack is -8558
+stack is 91442
+initial stack is 7155
+stack is 107155
+initial stack is -8557
+stack is 91443
+initial stack is 1402
+stack is 101402
+initial stack is -8559
+stack is 91441
+initial stack is 1404
+stack is 101404
+initial stack is 7155
+stack is 107155
+initial stack is 1403
+stack is 101403
+initial stack is 7356
+stack is 107356
+initial stack is -8759
+stack is 91241
+initial stack is 7362
+stack is 107362
+initial stack is -8761
+stack is 91239
+initial stack is 1399
+stack is 101399
+initial stack is -8762
+stack is 91238
+initial stack is 1392
+stack is 101392
+initial stack is 7370
+stack is 107370
+initial stack is 1391
+stack is 101391
+initial stack is 7361
+stack is 107361
+initial stack is -8752
+stack is 91248
+initial stack is 7162
+stack is 107162
+initial stack is -8553
+stack is 91447
+initial stack is 1391
+stack is 101391
+initial stack is -8554
+stack is 91446
+initial stack is 1385
+stack is 101385
+initial stack is 7169
+stack is 107169
+initial stack is 1383
+stack is 101383
+initial stack is 7156
+stack is 107156
+initial stack is -8539
+stack is 91461
+initial stack is 7158
+stack is 107158
+initial stack is -8541
+stack is 91459
+initial stack is 1383
+stack is 101383
+initial stack is -8545
+stack is 91455
+initial stack is 1387
+stack is 101387
+initial stack is 7158
+stack is 107158
+initial stack is 1386
+stack is 101386
+initial stack is 7238
+stack is 107238
+initial stack is -8624
+stack is 91376
+initial stack is 7241
+stack is 107241
+initial stack is -8622
+stack is 91378
+initial stack is 1381
+stack is 101381
+initial stack is -8626
+stack is 91374
+initial stack is 1385
+stack is 101385
+initial stack is 7241
+stack is 107241
+initial stack is 1384
+stack is 101384
+initial stack is 7241
+stack is 107241
+initial stack is -8625
+stack is 91375
+initial stack is 7240
+stack is 107240
+initial stack is -8631
+stack is 91369
+initial stack is 1391
+stack is 101391
+initial stack is -8627
+stack is 91373
+initial stack is 1389
+stack is 101389
+initial stack is 7238
+stack is 107238
+initial stack is 1387
+stack is 101387
+initial stack is 7440
+stack is 107440
+initial stack is -8827
+stack is 91173
+initial stack is 7240
+stack is 107240
+initial stack is -9027
+stack is 90973
+initial stack is 1787
+stack is 101787
+initial stack is -9025
+stack is 90975
+initial stack is 1785
+stack is 101785
+initial stack is 7240
+stack is 107240
+initial stack is 1778
+stack is 101778
+initial stack is 7331
+stack is 107331
+initial stack is -9109
+stack is 90891
+initial stack is 7330
+stack is 107330
+initial stack is -9108
+stack is 90892
+initial stack is 1778
+stack is 101778
+initial stack is -9106
+stack is 90894
+initial stack is 1776
+stack is 101776
+initial stack is 7330
+stack is 107330
+initial stack is 1771
+stack is 101771
+initial stack is 7335
+stack is 107335
+initial stack is -9106
+stack is 90894
+initial stack is 7425
+stack is 107425
+initial stack is -9151
+stack is 90849
+initial stack is 1726
+stack is 101726
+initial stack is -9153
+stack is 90847
+initial stack is 1728
+stack is 101728
+initial stack is 7425
+stack is 107425
+initial stack is 1727
+stack is 101727
+initial stack is 7227
+stack is 107227
+initial stack is -8954
+stack is 91046
+initial stack is 7226
+stack is 107226
+initial stack is -8972
+stack is 91028
+initial stack is 1746
+stack is 101746
+initial stack is -8973
+stack is 91027
+initial stack is 1744
+stack is 101744
+initial stack is 7229
+stack is 107229
+initial stack is 1743
+stack is 101743
+initial stack is 7230
+stack is 107230
+initial stack is -8973
+stack is 91027
+initial stack is 7195
+stack is 107195
+initial stack is -8936
+stack is 91064
+initial stack is 1741
+stack is 101741
+initial stack is -8937
+stack is 91063
+initial stack is 1739
+stack is 101739
+initial stack is 7198
+stack is 107198
+initial stack is 1737
+stack is 101737
+initial stack is 7200
+stack is 107200
+initial stack is -8937
+stack is 91063
+initial stack is 7202
+stack is 107202
+initial stack is -8939
+stack is 91061
+initial stack is 1737
+stack is 101737
+initial stack is -8937
+stack is 91063
+initial stack is 1735
+stack is 101735
+initial stack is 7202
+stack is 107202
+initial stack is 1734
+stack is 101734
+initial stack is 7185
+stack is 107185
+initial stack is -8919
+stack is 91081
+initial stack is 7388
+stack is 107388
+initial stack is -9118
+stack is 90882
+initial stack is 1730
+stack is 101730
+initial stack is -9116
+stack is 90884
+initial stack is 1728
+stack is 101728
+initial stack is 7388
+stack is 107388
+initial stack is 1727
+stack is 101727
+initial stack is 7386
+stack is 107386
+initial stack is -9113
+stack is 90887
+initial stack is 7388
+stack is 107388
+initial stack is -9115
+stack is 90885
+initial stack is 1727
+stack is 101727
+initial stack is -9135
+stack is 90865
+initial stack is 1747
+stack is 101747
+initial stack is 7388
+stack is 107388
+initial stack is 1745
+stack is 101745
+initial stack is 7390
+stack is 107390
+initial stack is -9135
+stack is 90865
+initial stack is 7533
+stack is 107533
+initial stack is -9276
+stack is 90724
+initial stack is 1743
+stack is 101743
+initial stack is -9278
+stack is 90722
+initial stack is 1745
+stack is 101745
+initial stack is 7533
+stack is 107533
+initial stack is 1743
+stack is 101743
+initial stack is 7535
+stack is 107535
+initial stack is -9278
+stack is 90722
+initial stack is 7531
+stack is 107531
+initial stack is -9274
+stack is 90726
+initial stack is 1743
+stack is 101743
+initial stack is -9275
+stack is 90725
+initial stack is 1741
+stack is 101741
+initial stack is 7534
+stack is 107534
+initial stack is 1739
+stack is 101739
+initial stack is 7536
+stack is 107536
+initial stack is -9275
+stack is 90725
+initial stack is 7520
+stack is 107520
+initial stack is -9259
+stack is 90741
+initial stack is 1739
+stack is 101739
+initial stack is -9257
+stack is 90743
+initial stack is 1737
+stack is 101737
+initial stack is 7520
+stack is 107520
+initial stack is 1739
+stack is 101739
+initial stack is 7518
+stack is 107518
+initial stack is -9257
+stack is 90743
+initial stack is 7520
+stack is 107520
+initial stack is -9259
+stack is 90741
+initial stack is 1739
+stack is 101739
+initial stack is -9257
+stack is 90743
+initial stack is 1737
+stack is 101737
+initial stack is 7520
+stack is 107520
+initial stack is 1735
+stack is 101735
+initial stack is 7518
+stack is 107518
+initial stack is -9253
+stack is 90747
+initial stack is 7517
+stack is 107517
+initial stack is -9252
+stack is 90748
+initial stack is 1735
+stack is 101735
+initial stack is -9264
+stack is 90736
+initial stack is 1741
+stack is 101741
+initial stack is 7523
+stack is 107523
+initial stack is 1739
+stack is 101739
+initial stack is 7525
+stack is 107525
+initial stack is -9264
+stack is 90736
+initial stack is 7529
+stack is 107529
+initial stack is -9266
+stack is 90734
+initial stack is 1737
+stack is 101737
+initial stack is -9264
+stack is 90736
+initial stack is 1735
+stack is 101735
+initial stack is 7529
+stack is 107529
+initial stack is 1763
+stack is 101763
+initial stack is 7501
+stack is 107501
+initial stack is -9264
+stack is 90736
+initial stack is 7702
+stack is 107702
+initial stack is -9463
+stack is 90537
+initial stack is 1761
+stack is 101761
+initial stack is -9474
+stack is 90526
+initial stack is 1772
+stack is 101772
+initial stack is 7702
+stack is 107702
+initial stack is 1771
+stack is 101771
+initial stack is 7703
+stack is 107703
+initial stack is -9474
+stack is 90526
+initial stack is 7699
+stack is 107699
+initial stack is -9478
+stack is 90522
+initial stack is 1779
+stack is 101779
+initial stack is -9485
+stack is 90515
+initial stack is 1786
+stack is 101786
+initial stack is 7699
+stack is 107699
+initial stack is 1784
+stack is 101784
+initial stack is 7721
+stack is 107721
+initial stack is -9505
+stack is 90495
+initial stack is 7723
+stack is 107723
+initial stack is -9507
+stack is 90493
+initial stack is 1784
+stack is 101784
+initial stack is -9305
+stack is 90695
+initial stack is 1782
+stack is 101782
+initial stack is 7523
+stack is 107523
+initial stack is 1780
+stack is 101780
+initial stack is 7525
+stack is 107525
+initial stack is -9305
+stack is 90695
+initial stack is 7627
+stack is 107627
+initial stack is -9405
+stack is 90595
+initial stack is 1778
+stack is 101778
+initial stack is -9401
+stack is 90599
+initial stack is 1776
+stack is 101776
+initial stack is 7625
+stack is 107625
+initial stack is 1774
+stack is 101774
+initial stack is 7627
+stack is 107627
+initial stack is -9401
+stack is 90599
+initial stack is 7626
+stack is 107626
+initial stack is -9400
+stack is 90600
+initial stack is 1774
+stack is 101774
+initial stack is -9404
+stack is 90596
+initial stack is 1778
+stack is 101778
+initial stack is 7626
+stack is 107626
+initial stack is 1789
+stack is 101789
+initial stack is 7624
+stack is 107624
+initial stack is -9413
+stack is 90587
+initial stack is 7623
+stack is 107623
+initial stack is -9421
+stack is 90579
+initial stack is 1798
+stack is 101798
+initial stack is -9425
+stack is 90575
+initial stack is 1802
+stack is 101802
+initial stack is 7623
+stack is 107623
+initial stack is 1800
+stack is 101800
+initial stack is 7823
+stack is 107823
+initial stack is -9623
+stack is 90377
+initial stack is 7822
+stack is 107822
+initial stack is -9625
+stack is 90375
+initial stack is 1803
+stack is 101803
+initial stack is -9626
+stack is 90374
+initial stack is 1603
+stack is 101603
+initial stack is 8023
+stack is 108023
+initial stack is 1602
+stack is 101602
+initial stack is 8024
+stack is 108024
+initial stack is -9626
+stack is 90374
+initial stack is 8026
+stack is 108026
+initial stack is -9628
+stack is 90372
+initial stack is 1602
+stack is 101602
+initial stack is -9426
+stack is 90574
+initial stack is 1600
+stack is 101600
+initial stack is 7826
+stack is 107826
+initial stack is 1599
+stack is 101599
+initial stack is 7981
+stack is 107981
+initial stack is -9580
+stack is 90420
+initial stack is 7980
+stack is 107980
+initial stack is -9579
+stack is 90421
+initial stack is 1599
+stack is 101599
+initial stack is -9779
+stack is 90221
+initial stack is 1597
+stack is 101597
+initial stack is 8182
+stack is 108182
+initial stack is 1596
+stack is 101596
+initial stack is 8183
+stack is 108183
+initial stack is -9779
+stack is 90221
+initial stack is 8160
+stack is 108160
+initial stack is -9752
+stack is 90248
+initial stack is 1592
+stack is 101592
+initial stack is -9756
+stack is 90244
+initial stack is 1596
+stack is 101596
+initial stack is 8160
+stack is 108160
+initial stack is 1595
+stack is 101595
+initial stack is 8161
+stack is 108161
+initial stack is -9756
+stack is 90244
+initial stack is 8146
+stack is 108146
+initial stack is -9741
+stack is 90259
+initial stack is 1595
+stack is 101595
+initial stack is -9730
+stack is 90270
+initial stack is 1584
+stack is 101584
+initial stack is 8146
+stack is 108146
+initial stack is 1583
+stack is 101583
+initial stack is 8147
+stack is 108147
+initial stack is -9730
+stack is 90270
+initial stack is 7948
+stack is 107948
+initial stack is -9529
+stack is 90471
+initial stack is 1581
+stack is 101581
+initial stack is -9453
+stack is 90547
+initial stack is 1579
+stack is 101579
+initial stack is 7874
+stack is 107874
+initial stack is 1578
+stack is 101578
+initial stack is 7841
+stack is 107841
+initial stack is -9419
+stack is 90581
+initial stack is 8040
+stack is 108040
+initial stack is -9618
+stack is 90382
+initial stack is 1578
+stack is 101578
+initial stack is -9619
+stack is 90381
+initial stack is 1576
+stack is 101576
+initial stack is 8043
+stack is 108043
+initial stack is 1565
+stack is 101565
+initial stack is 7990
+stack is 107990
+initial stack is -9555
+stack is 90445
+initial stack is 7989
+stack is 107989
+initial stack is -9550
+stack is 90450
+initial stack is 1561
+stack is 101561
+initial stack is -9548
+stack is 90452
+initial stack is 1559
+stack is 101559
+initial stack is 7989
+stack is 107989
+initial stack is 1614
+stack is 101614
+initial stack is 7934
+stack is 107934
+initial stack is -9548
+stack is 90452
+initial stack is 7846
+stack is 107846
+initial stack is -9460
+stack is 90540
+initial stack is 1614
+stack is 101614
+initial stack is -9461
+stack is 90539
+initial stack is 1612
+stack is 101612
+initial stack is 7849
+stack is 107849
+initial stack is 1610
+stack is 101610
+initial stack is 7851
+stack is 107851
+initial stack is -9461
+stack is 90539
+initial stack is 7850
+stack is 107850
+initial stack is -9456
+stack is 90544
+initial stack is 1606
+stack is 101606
+initial stack is -9454
+stack is 90546
+initial stack is 1604
+stack is 101604
+initial stack is 7850
+stack is 107850
+initial stack is 1606
+stack is 101606
+initial stack is 7848
+stack is 107848
+initial stack is -9454
+stack is 90546
+initial stack is 7847
+stack is 107847
+initial stack is -9456
+stack is 90544
+initial stack is 1609
+stack is 101609
+initial stack is -9454
+stack is 90546
+initial stack is 1607
+stack is 101607
+initial stack is 7847
+stack is 107847
+initial stack is 1615
+stack is 101615
+initial stack is 7839
+stack is 107839
+initial stack is -9454
+stack is 90546
+initial stack is 7717
+stack is 107717
+initial stack is -9332
+stack is 90668
+initial stack is 1615
+stack is 101615
+initial stack is -9532
+stack is 90468
+initial stack is 1613
+stack is 101613
+initial stack is 7919
+stack is 107919
+initial stack is 1612
+stack is 101612
+initial stack is 7920
+stack is 107920
+initial stack is -9532
+stack is 90468
+initial stack is 7919
+stack is 107919
+initial stack is -9732
+stack is 90268
+initial stack is 1813
+stack is 101813
+initial stack is -9733
+stack is 90267
+initial stack is 1790
+stack is 101790
+initial stack is 7943
+stack is 107943
+initial stack is 1789
+stack is 101789
+initial stack is 8084
+stack is 108084
+initial stack is -9873
+stack is 90127
+initial stack is 8086
+stack is 108086
+initial stack is -9875
+stack is 90125
+initial stack is 1789
+stack is 101789
+initial stack is -10075
+stack is 89925
+initial stack is 1772
+stack is 101772
+initial stack is 8303
+stack is 108303
+initial stack is 1771
+stack is 101771
+initial stack is 8304
+stack is 108304
+initial stack is -10075
+stack is 89925
+initial stack is 8308
+stack is 108308
+initial stack is -10077
+stack is 89923
+initial stack is 1769
+stack is 101769
+initial stack is -10087
+stack is 89913
+initial stack is 1779
+stack is 101779
+initial stack is 8308
+stack is 108308
+initial stack is 1777
+stack is 101777
+initial stack is 8310
+stack is 108310
+initial stack is -10087
+stack is 89913
+initial stack is 8309
+stack is 108309
+initial stack is -10089
+stack is 89911
+initial stack is 1780
+stack is 101780
+initial stack is -10090
+stack is 89910
+initial stack is 1778
+stack is 101778
+initial stack is 8312
+stack is 108312
+initial stack is 1777
+stack is 101777
+initial stack is 8511
+stack is 108511
+initial stack is -10288
+stack is 89712
+initial stack is 8710
+stack is 108710
+initial stack is -10487
+stack is 89513
+initial stack is 1777
+stack is 101777
+initial stack is -10489
+stack is 89511
+initial stack is 1781
+stack is 101781
+initial stack is 8708
+stack is 108708
+initial stack is 1780
+stack is 101780
+initial stack is 8907
+stack is 108907
+initial stack is -10687
+stack is 89313
+initial stack is 8926
+stack is 108926
+initial stack is -10706
+stack is 89294
+initial stack is 1780
+stack is 101780
+initial stack is -10707
+stack is 89293
+initial stack is 1764
+stack is 101764
+initial stack is 8943
+stack is 108943
+initial stack is 1763
+stack is 101763
+initial stack is 8944
+stack is 108944
+initial stack is -10707
+stack is 89293
+initial stack is 8943
+stack is 108943
+initial stack is -10709
+stack is 89291
+initial stack is 1766
+stack is 101766
+initial stack is -10719
+stack is 89281
+initial stack is 1776
+stack is 101776
+initial stack is 8943
+stack is 108943
+initial stack is 1775
+stack is 101775
+initial stack is 8941
+stack is 108941
+initial stack is -10716
+stack is 89284
+initial stack is 8940
+stack is 108940
+initial stack is -10727
+stack is 89273
+initial stack is 1787
+stack is 101787
+initial stack is -10783
+stack is 89217
+initial stack is 1785
+stack is 101785
+initial stack is 8998
+stack is 108998
+initial stack is 1783
+stack is 101783
+initial stack is 9002
+stack is 109002
+initial stack is -10785
+stack is 89215
+initial stack is 9001
+stack is 109001
+initial stack is -10784
+stack is 89216
+initial stack is 1783
+stack is 101783
+initial stack is -10782
+stack is 89218
+initial stack is 1781
+stack is 101781
+initial stack is 9001
+stack is 109001
+initial stack is 1780
+stack is 101780
+initial stack is 9002
+stack is 109002
+initial stack is -10782
+stack is 89218
+initial stack is 9001
+stack is 109001
+initial stack is -10779
+stack is 89221
+initial stack is 1778
+stack is 101778
+initial stack is -10780
+stack is 89220
+initial stack is 1793
+stack is 101793
+initial stack is 8987
+stack is 108987
+initial stack is 1792
+stack is 101792
+initial stack is 9186
+stack is 109186
+initial stack is -10978
+stack is 89022
+initial stack is 9261
+stack is 109261
+initial stack is -11053
+stack is 88947
+initial stack is 1792
+stack is 101792
+initial stack is -11060
+stack is 88940
+initial stack is 1799
+stack is 101799
+initial stack is 9261
+stack is 109261
+initial stack is 1797
+stack is 101797
+initial stack is 9259
+stack is 109259
+initial stack is -11056
+stack is 88944
+initial stack is 9261
+stack is 109261
+initial stack is -11058
+stack is 88942
+initial stack is 1797
+stack is 101797
+initial stack is -11258
+stack is 88742
+initial stack is 1795
+stack is 101795
+initial stack is 9463
+stack is 109463
+initial stack is 1794
+stack is 101794
+initial stack is 9265
+stack is 109265
+initial stack is -11059
+stack is 88941
+initial stack is 9272
+stack is 109272
+initial stack is -11061
+stack is 88939
+initial stack is 1789
+stack is 101789
+initial stack is -11057
+stack is 88943
+initial stack is 1785
+stack is 101785
+initial stack is 9272
+stack is 109272
+initial stack is 1784
+stack is 101784
+initial stack is 9273
+stack is 109273
+initial stack is -11057
+stack is 88943
+initial stack is 9272
+stack is 109272
+initial stack is -11056
+stack is 88944
+initial stack is 1784
+stack is 101784
+initial stack is -11058
+stack is 88942
+initial stack is 1786
+stack is 101786
+initial stack is 9272
+stack is 109272
+initial stack is 1785
+stack is 101785
+initial stack is 9473
+stack is 109473
+initial stack is -11258
+stack is 88742
+initial stack is 9517
+stack is 109517
+initial stack is -11300
+stack is 88700
+initial stack is 1783
+stack is 101783
+initial stack is -11296
+stack is 88704
+initial stack is 1779
+stack is 101779
+initial stack is 9517
+stack is 109517
+initial stack is 1777
+stack is 101777
+initial stack is 9521
+stack is 109521
+initial stack is -11298
+stack is 88702
+initial stack is 9544
+stack is 109544
+initial stack is -11319
+stack is 88681
+initial stack is 1775
+stack is 101775
+initial stack is -11519
+stack is 88481
+initial stack is 1773
+stack is 101773
+initial stack is 9746
+stack is 109746
+initial stack is 1772
+stack is 101772
+initial stack is 9739
+stack is 109739
+initial stack is -11511
+stack is 88489
+initial stack is 9738
+stack is 109738
+initial stack is -11508
+stack is 88492
+initial stack is 1770
+stack is 101770
+initial stack is -11509
+stack is 88491
+initial stack is 1768
+stack is 101768
+initial stack is 9741
+stack is 109741
+initial stack is 1767
+stack is 101767
+initial stack is 9742
+stack is 109742
+initial stack is -11509
+stack is 88491
+initial stack is 9731
+stack is 109731
+initial stack is -11511
+stack is 88489
+initial stack is 1780
+stack is 101780
+initial stack is -11512
+stack is 88488
+initial stack is 1778
+stack is 101778
+initial stack is 9734
+stack is 109734
+initial stack is 1776
+stack is 101776
+initial stack is 9934
+stack is 109934
+initial stack is -11710
+stack is 88290
+initial stack is 9933
+stack is 109933
+initial stack is -11709
+stack is 88291
+initial stack is 1776
+stack is 101776
+initial stack is -11710
+stack is 88290
+initial stack is 1774
+stack is 101774
+initial stack is 9936
+stack is 109936
+initial stack is 1773
+stack is 101773
+initial stack is 10135
+stack is 110135
+initial stack is -11908
+stack is 88092
+initial stack is 10141
+stack is 110141
+initial stack is -11910
+stack is 88090
+initial stack is 1769
+stack is 101769
+initial stack is -12110
+stack is 87890
+initial stack is 1758
+stack is 101758
+initial stack is 10352
+stack is 110352
+initial stack is 1766
+stack is 101766
+initial stack is 10348
+stack is 110348
+initial stack is -12114
+stack is 87886
+initial stack is 10354
+stack is 110354
+initial stack is -12116
+stack is 87884
+initial stack is 1762
+stack is 101762
+initial stack is -12126
+stack is 87874
+initial stack is 1774
+stack is 101774
+initial stack is 10352
+stack is 110352
+initial stack is 1773
+stack is 101773
+initial stack is 10353
+stack is 110353
+initial stack is -12126
+stack is 87874
+initial stack is 10352
+stack is 110352
+initial stack is -12126
+stack is 87874
+initial stack is 1774
+stack is 101774
+initial stack is -12127
+stack is 87873
+initial stack is 1768
+stack is 101768
+initial stack is 10359
+stack is 110359
+initial stack is 1767
+stack is 101767
+initial stack is 10360
+stack is 110360
+initial stack is -12127
+stack is 87873
+initial stack is 10308
+stack is 110308
+initial stack is -12215
+stack is 87785
+initial stack is 1907
+stack is 101907
+initial stack is -12209
+stack is 87791
+initial stack is 1901
+stack is 101901
+initial stack is 10308
+stack is 110308
+initial stack is 1900
+stack is 101900
+initial stack is 10309
+stack is 110309
+initial stack is -12209
+stack is 87791
+initial stack is 10311
+stack is 110311
+initial stack is -12211
+stack is 87789
+initial stack is 1900
+stack is 101900
+initial stack is -12212
+stack is 87788
+initial stack is 2101
+stack is 102101
+initial stack is 10111
+stack is 110111
+initial stack is 2099
+stack is 102099
+initial stack is 10113
+stack is 110113
+initial stack is -12212
+stack is 87788
+initial stack is 10111
+stack is 110111
+initial stack is -12412
+stack is 87588
+initial stack is 2301
+stack is 102301
+initial stack is -12414
+stack is 87586
+initial stack is 2303
+stack is 102303
+initial stack is 10111
+stack is 110111
+initial stack is 2302
+stack is 102302
+initial stack is 10069
+stack is 110069
+initial stack is -12371
+stack is 87629
+initial stack is 10068
+stack is 110068
+initial stack is -12381
+stack is 87619
+initial stack is 2313
+stack is 102313
+initial stack is -12379
+stack is 87621
+initial stack is 2311
+stack is 102311
+initial stack is 10068
+stack is 110068
+initial stack is 2310
+stack is 102310
+initial stack is 10069
+stack is 110069
+initial stack is -12379
+stack is 87621
+initial stack is 10075
+stack is 110075
+initial stack is -12381
+stack is 87619
+initial stack is 2306
+stack is 102306
+initial stack is -12453
+stack is 87547
+initial stack is 2304
+stack is 102304
+initial stack is 10149
+stack is 110149
+initial stack is 2303
+stack is 102303
+initial stack is 9951
+stack is 109951
+initial stack is -12254
+stack is 87746
+initial stack is 9950
+stack is 109950
+initial stack is -12269
+stack is 87731
+initial stack is 2319
+stack is 102319
+initial stack is -12270
+stack is 87730
+initial stack is 2317
+stack is 102317
+initial stack is 9953
+stack is 109953
+initial stack is 2315
+stack is 102315
+initial stack is 9955
+stack is 109955
+initial stack is -12270
+stack is 87730
+initial stack is 10154
+stack is 110154
+initial stack is -12469
+stack is 87531
+initial stack is 2315
+stack is 102315
+initial stack is -12470
+stack is 87530
+initial stack is 2313
+stack is 102313
+initial stack is 10157
+stack is 110157
+initial stack is 2312
+stack is 102312
+initial stack is 10158
+stack is 110158
+initial stack is -12470
+stack is 87530
+initial stack is 10359
+stack is 110359
+initial stack is -12669
+stack is 87331
+initial stack is 2310
+stack is 102310
+initial stack is -12869
+stack is 87131
+initial stack is 2308
+stack is 102308
+initial stack is 10561
+stack is 110561
+initial stack is 2307
+stack is 102307
+initial stack is 10363
+stack is 110363
+initial stack is -12670
+stack is 87330
+initial stack is 10399
+stack is 110399
+initial stack is -12704
+stack is 87296
+initial stack is 2305
+stack is 102305
+initial stack is -12708
+stack is 87292
+initial stack is 2309
+stack is 102309
+initial stack is 10399
+stack is 110399
+initial stack is 2308
+stack is 102308
+initial stack is 10548
+stack is 110548
+initial stack is -12856
+stack is 87144
+initial stack is 10752
+stack is 110752
+initial stack is -13055
+stack is 86945
+initial stack is 2303
+stack is 102303
+initial stack is -13057
+stack is 86943
+initial stack is 2305
+stack is 102305
+initial stack is 10752
+stack is 110752
+initial stack is 2303
+stack is 102303
+initial stack is 10698
+stack is 110698
+initial stack is -13001
+stack is 86999
+initial stack is 10697
+stack is 110697
+initial stack is -12998
+stack is 87002
+initial stack is 2301
+stack is 102301
+initial stack is -13009
+stack is 86991
+initial stack is 2312
+stack is 102312
+initial stack is 10697
+stack is 110697
+initial stack is 2310
+stack is 102310
+initial stack is 10728
+stack is 110728
+initial stack is -13038
+stack is 86962
+initial stack is 10727
+stack is 110727
+initial stack is -13037
+stack is 86963
+initial stack is 2310
+stack is 102310
+initial stack is -13035
+stack is 86965
+initial stack is 2308
+stack is 102308
+initial stack is 10727
+stack is 110727
+initial stack is 2306
+stack is 102306
+initial stack is 10725
+stack is 110725
+initial stack is -13031
+stack is 86969
+initial stack is 10724
+stack is 110724
+initial stack is -13033
+stack is 86967
+initial stack is 2309
+stack is 102309
+initial stack is -13039
+stack is 86961
+initial stack is 2315
+stack is 102315
+initial stack is 10724
+stack is 110724
+initial stack is 2313
+stack is 102313
+initial stack is 10726
+stack is 110726
+initial stack is -13039
+stack is 86961
+initial stack is 10728
+stack is 110728
+initial stack is -13041
+stack is 86959
+initial stack is 2313
+stack is 102313
+initial stack is -13043
+stack is 86957
+initial stack is 2315
+stack is 102315
+initial stack is 10728
+stack is 110728
+initial stack is 2313
+stack is 102313
+initial stack is 10827
+stack is 110827
+initial stack is -13140
+stack is 86860
+initial stack is 11026
+stack is 111026
+initial stack is -13339
+stack is 86661
+initial stack is 2313
+stack is 102313
+initial stack is -13337
+stack is 86663
+initial stack is 2311
+stack is 102311
+initial stack is 11026
+stack is 111026
+initial stack is 2310
+stack is 102310
+initial stack is 11027
+stack is 111027
+initial stack is -13337
+stack is 86663
+initial stack is 11054
+stack is 111054
+initial stack is -13364
+stack is 86636
+initial stack is 2310
+stack is 102310
+initial stack is -13128
+stack is 86872
+initial stack is 2274
+stack is 102274
+initial stack is 10854
+stack is 110854
+initial stack is 2273
+stack is 102273
+initial stack is 10854
+stack is 110854
+initial stack is -13127
+stack is 86873
+initial stack is 10852
+stack is 110852
+initial stack is -13125
+stack is 86875
+initial stack is 2273
+stack is 102273
+initial stack is -13134
+stack is 86866
+initial stack is 2284
+stack is 102284
+initial stack is 10850
+stack is 110850
+initial stack is 2283
+stack is 102283
+initial stack is 10851
+stack is 110851
+initial stack is -13134
+stack is 86866
+initial stack is 10850
+stack is 110850
+initial stack is -13133
+stack is 86867
+initial stack is 2283
+stack is 102283
+initial stack is -13131
+stack is 86869
+initial stack is 2281
+stack is 102281
+initial stack is 10850
+stack is 110850
+initial stack is 2289
+stack is 102289
+initial stack is 10842
+stack is 110842
+initial stack is -13131
+stack is 86869
+initial stack is 10844
+stack is 110844
+initial stack is -13133
+stack is 86867
+initial stack is 2289
+stack is 102289
+initial stack is -13333
+stack is 86667
+initial stack is 2287
+stack is 102287
+initial stack is 11046
+stack is 111046
+initial stack is 2286
+stack is 102286
+initial stack is 11047
+stack is 111047
+initial stack is -13333
+stack is 86667
+initial stack is 10985
+stack is 110985
+initial stack is -13271
+stack is 86729
+initial stack is 2286
+stack is 102286
+initial stack is -13071
+stack is 86929
+initial stack is 2284
+stack is 102284
+initial stack is 10787
+stack is 110787
+initial stack is 2283
+stack is 102283
+initial stack is 10726
+stack is 110726
+initial stack is -13009
+stack is 86991
+initial stack is 10730
+stack is 110730
+initial stack is -13011
+stack is 86989
+initial stack is 2281
+stack is 102281
+initial stack is -13019
+stack is 86981
+initial stack is 2289
+stack is 102289
+initial stack is 10730
+stack is 110730
+initial stack is 2288
+stack is 102288
+initial stack is 10670
+stack is 110670
+initial stack is -12958
+stack is 87042
+initial stack is 10669
+stack is 110669
+initial stack is -13158
+stack is 86842
+initial stack is 2489
+stack is 102489
+initial stack is -13165
+stack is 86835
+initial stack is 2498
+stack is 102498
+initial stack is 10667
+stack is 110667
+initial stack is 2497
+stack is 102497
+initial stack is 10576
+stack is 110576
+initial stack is -13073
+stack is 86927
+initial stack is 10574
+stack is 110574
+initial stack is -13071
+stack is 86929
+initial stack is 2497
+stack is 102497
+initial stack is -13271
+stack is 86729
+initial stack is 2495
+stack is 102495
+initial stack is 10776
+stack is 110776
+initial stack is 2494
+stack is 102494
+initial stack is 10578
+stack is 110578
+initial stack is -13072
+stack is 86928
+initial stack is 10553
+stack is 110553
+initial stack is -13116
+stack is 86884
+initial stack is 2563
+stack is 102563
+initial stack is -13118
+stack is 86882
+initial stack is 2565
+stack is 102565
+initial stack is 10553
+stack is 110553
+initial stack is 2563
+stack is 102563
+initial stack is 10472
+stack is 110472
+initial stack is -13035
+stack is 86965
+initial stack is 10471
+stack is 110471
+initial stack is -13037
+stack is 86963
+initial stack is 2566
+stack is 102566
+initial stack is -13038
+stack is 86962
+initial stack is 2564
+stack is 102564
+initial stack is 10474
+stack is 110474
+initial stack is 2563
+stack is 102563
+initial stack is 10491
+stack is 110491
+initial stack is -13054
+stack is 86946
+initial stack is 10495
+stack is 110495
+initial stack is -13056
+stack is 86944
+initial stack is 2561
+stack is 102561
+initial stack is -13057
+stack is 86943
+initial stack is 2559
+stack is 102559
+initial stack is 10498
+stack is 110498
+initial stack is 2558
+stack is 102558
+initial stack is 10499
+stack is 110499
+initial stack is -13057
+stack is 86943
+initial stack is 10498
+stack is 110498
+initial stack is -13054
+stack is 86946
+initial stack is 2556
+stack is 102556
+initial stack is -13056
+stack is 86944
+initial stack is 2558
+stack is 102558
+initial stack is 10498
+stack is 110498
+initial stack is 2557
+stack is 102557
+initial stack is 10448
+stack is 110448
+initial stack is -13005
+stack is 86995
+initial stack is 10647
+stack is 110647
+initial stack is -13204
+stack is 86796
+initial stack is 2557
+stack is 102557
+initial stack is -13404
+stack is 86596
+initial stack is 2757
+stack is 102757
+initial stack is 10647
+stack is 110647
+initial stack is 2756
+stack is 102756
+initial stack is 10648
+stack is 110648
+initial stack is -13404
+stack is 86596
+initial stack is 10847
+stack is 110847
+initial stack is -13603
+stack is 86397
+initial stack is 2756
+stack is 102756
+initial stack is -13604
+stack is 86396
+initial stack is 2754
+stack is 102754
+initial stack is 10850
+stack is 110850
+initial stack is 2753
+stack is 102753
+initial stack is 10851
+stack is 110851
+initial stack is -13604
+stack is 86396
+initial stack is 10850
+stack is 110850
+initial stack is -13601
+stack is 86399
+initial stack is 2751
+stack is 102751
+initial stack is -13599
+stack is 86401
+initial stack is 2749
+stack is 102749
+initial stack is 10850
+stack is 110850
+initial stack is 2747
+stack is 102747
+initial stack is 10852
+stack is 110852
+initial stack is -13599
+stack is 86401
+initial stack is 10856
+stack is 110856
+initial stack is -13601
+stack is 86399
+initial stack is 2745
+stack is 102745
+initial stack is -13599
+stack is 86401
+initial stack is 2743
+stack is 102743
+initial stack is 10856
+stack is 110856
+initial stack is 2741
+stack is 102741
+initial stack is 10858
+stack is 110858
+initial stack is -13599
+stack is 86401
+initial stack is 10857
+stack is 110857
+initial stack is -13598
+stack is 86402
+initial stack is 2741
+stack is 102741
+initial stack is -13599
+stack is 86401
+initial stack is 2739
+stack is 102739
+initial stack is 10860
+stack is 110860
+initial stack is 2737
+stack is 102737
+initial stack is 10862
+stack is 110862
+initial stack is -13599
+stack is 86401
+initial stack is 10926
+stack is 110926
+initial stack is -13663
+stack is 86337
+initial stack is 2737
+stack is 102737
+initial stack is -13661
+stack is 86339
+initial stack is 2735
+stack is 102735
+initial stack is 10926
+stack is 110926
+initial stack is 2734
+stack is 102734
+initial stack is 10920
+stack is 110920
+initial stack is -13654
+stack is 86346
+initial stack is 10936
+stack is 110936
+initial stack is -13670
+stack is 86330
+initial stack is 2734
+stack is 102734
+initial stack is -13668
+stack is 86332
+initial stack is 2732
+stack is 102732
+initial stack is 10936
+stack is 110936
+initial stack is 2721
+stack is 102721
+initial stack is 10925
+stack is 110925
+initial stack is -13646
+stack is 86354
+initial stack is 10927
+stack is 110927
+initial stack is -13648
+stack is 86352
+initial stack is 2721
+stack is 102721
+initial stack is -13646
+stack is 86354
+initial stack is 2719
+stack is 102719
+initial stack is 10927
+stack is 110927
+initial stack is 2717
+stack is 102717
+initial stack is 10929
+stack is 110929
+initial stack is -13646
+stack is 86354
+initial stack is 10928
+stack is 110928
+initial stack is -13648
+stack is 86352
+initial stack is 2720
+stack is 102720
+initial stack is -13646
+stack is 86354
+initial stack is 2718
+stack is 102718
+initial stack is 10928
+stack is 110928
+initial stack is 2717
+stack is 102717
+initial stack is 10929
+stack is 110929
+initial stack is -13646
+stack is 86354
+initial stack is 10831
+stack is 110831
+initial stack is -13546
+stack is 86454
+initial stack is 2715
+stack is 102715
+initial stack is -13548
+stack is 86452
+initial stack is 2717
+stack is 102717
+initial stack is 10831
+stack is 110831
+initial stack is 2715
+stack is 102715
+initial stack is 10829
+stack is 110829
+initial stack is -13544
+stack is 86456
+initial stack is 10828
+stack is 110828
+initial stack is -13544
+stack is 86456
+initial stack is 2716
+stack is 102716
+initial stack is -13542
+stack is 86458
+initial stack is 2714
+stack is 102714
+initial stack is 10828
+stack is 110828
+initial stack is 2712
+stack is 102712
+initial stack is 10830
+stack is 110830
+initial stack is -13542
+stack is 86458
+initial stack is 10829
+stack is 110829
+initial stack is -13544
+stack is 86456
+initial stack is 2715
+stack is 102715
+initial stack is -13545
+stack is 86455
+initial stack is 2749
+stack is 102749
+initial stack is 10796
+stack is 110796
+initial stack is 2748
+stack is 102748
+initial stack is 10796
+stack is 110796
+initial stack is -13544
+stack is 86456
+initial stack is 10795
+stack is 110795
+initial stack is -13546
+stack is 86454
+initial stack is 2751
+stack is 102751
+initial stack is -13727
+stack is 86273
+initial stack is 2743
+stack is 102743
+initial stack is 10984
+stack is 110984
+initial stack is 2742
+stack is 102742
+initial stack is 10786
+stack is 110786
+initial stack is -13528
+stack is 86472
+initial stack is 10987
+stack is 110987
+initial stack is -13727
+stack is 86273
+initial stack is 2740
+stack is 102740
+initial stack is -13525
+stack is 86475
+initial stack is 2738
+stack is 102738
+initial stack is 10787
+stack is 110787
+initial stack is 2731
+stack is 102731
+initial stack is 10785
+stack is 110785
+initial stack is -13516
+stack is 86484
+initial stack is 10734
+stack is 110734
+initial stack is -13465
+stack is 86535
+initial stack is 2731
+stack is 102731
+initial stack is -13467
+stack is 86533
+initial stack is 2733
+stack is 102733
+initial stack is 10734
+stack is 110734
+initial stack is 2732
+stack is 102732
+initial stack is 10933
+stack is 110933
+initial stack is -13665
+stack is 86335
+initial stack is 10932
+stack is 110932
+initial stack is -13670
+stack is 86330
+initial stack is 2738
+stack is 102738
+initial stack is -13679
+stack is 86321
+initial stack is 2747
+stack is 102747
+initial stack is 10932
+stack is 110932
+initial stack is 2751
+stack is 102751
+initial stack is 10930
+stack is 110930
+initial stack is -13681
+stack is 86319
+initial stack is 10936
+stack is 110936
+initial stack is -13683
+stack is 86317
+initial stack is 2747
+stack is 102747
+initial stack is -13684
+stack is 86316
+initial stack is 2743
+stack is 102743
+initial stack is 10941
+stack is 110941
+initial stack is 2742
+stack is 102742
+initial stack is 10942
+stack is 110942
+initial stack is -13684
+stack is 86316
+initial stack is 10941
+stack is 110941
+initial stack is -13686
+stack is 86314
+initial stack is 2745
+stack is 102745
+initial stack is -13693
+stack is 86307
+initial stack is 2752
+stack is 102752
+initial stack is 10941
+stack is 110941
+initial stack is 2751
+stack is 102751
+initial stack is 10942
+stack is 110942
+initial stack is -13693
+stack is 86307

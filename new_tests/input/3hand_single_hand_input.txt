@@ -1,0 +1,14 @@
+6.S912 MIT Pokerbots - FlipFlop vs. Prime vs. NotElectrical
+Hand #1
+Seat 1 (Button): FlipFlop3003 0
+Seat 2 (SB): Prime3004 0
+Seat 3 (BB): NotElectrical3005 0
+Prime3004 posts the blind of 1
+NotElectrical3005 posts the blind of 2
+Dealt to Prime3004 [Ks 2h]
+Dealt to NotElectrical3005 [6h Qs]
+Dealt to FlipFlop3003 [4h Qd]
+FlipFlop3003 folds
+Prime3004 folds
+NotElectrical3005 wins the pot (3)
+

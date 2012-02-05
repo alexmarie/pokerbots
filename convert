@@ -1,21 +1,45 @@
 #! /usr/bin/ruby
 
-file = ARGV[0]
 time = Time.utc 2012, 1, 1
+game = 1
 
-lines = File.new(file).readlines
-lines = lines[3..-1] #remove headers
+dir = File.join(ARGV[0],'**','*.txt')
+Dir.glob(dir).each do |file| 
+  puts "file is #{file}"
+  out_file = file.sub(/^\w+\//,'results/').sub(/.txt/,"_fulltilt.txt")
+  puts "output file is #{out_file}"
 
-lines.each do |line|
-  if match = /Hand \#(\w+)/.match(line)
-    hand = match[1]
-    puts "FullTiltPoker Game \##{hand}: Table Gateway (2 max) - $1/$2 - No Limit Hold'em - #{time.strftime('%H:%M:%S ET - %Y/%m/%d')}"
-    time += 1
-  else
-    line.sub! /\((\d+)\)/, '($\1)' if line =~ /Seat/
-    line.sub! /(\d+)/, '$\1' if line =~ /posts|raises|calls|wins|returned/
-    puts line.strip
-    puts '*** HOLE CARDS ***' if line =~ /button/
+  dir = File.dirname(out_file) 
+  root_dir = File.dirname(dir)
+  Dir.mkdir(root_dir) unless File.exists?(root_dir)
+  Dir.mkdir(dir) unless File.exists?(dir)
+
+  File.open(out_file,'w') do |results|
+
+    lines = File.new(file).readlines
+    lines = lines[1..-1]
+    dealt = 0
+
+    lines.each do |line|
+      if match = /Hand #(\d+)/.match(line)
+         results << "FullTiltPoker Game \##{game}: Table Gateway (2 max) - $1/$2 - No Limit Hold'em - #{time.strftime('%H:%M:%S ET - %Y/%m/%d')}\n"
+         time += 1
+         game += 1
+      else 
+        if match = /(: \w+ )([0-9-]+)/.match(line) 
+          puts "initial stack is #{match[2]}"
+          stack = match[2].to_i + 1000000
+          puts "stack is #{stack}"
+          line.sub! /( \(\w+\))(: \w+ )([0-9-]+)/, '\2($#{stack})' 
+        end
+        line.sub! /( |\()([0-9-]+)/, '\1$\2' if line =~ /bets|posts|raises|calls|(wins the pot)|returned/
+        results << line.strip + "\n" 
+        if /posts the blind of \$2/.match(line) 
+          results << "The button is in seat \#1\n"
+          results << "*** HOLE CARDS ***\n"
+        end
+      end
+    end
   end
 end
 
